@@ -1,0 +1,8 @@
+Đây là đường dẫn tới bộ dữ liệu mà nhóm chúng em đã thu thập:
+https://drive.google.com/drive/folders/18CEZ7tUZbCXpdVbxzwAi_xRZPrlUtAH6?usp=sharing
+
+Gồm có:
+- links.csv
+- raw_data.csv
+- processed_data.csv
+- new_processed_data.csv
