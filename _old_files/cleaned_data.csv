@@ -1,0 +1,671 @@
+Tên,Giá,Pin,RAM,Bộ nhớ,CPU,size_inch,panel_type
+"Điện thoại LG G7 ThinQ cũ (Mỹ, Hàn Quốc)",1750000.0,3000.0,4.0,64.0,Qualcomm SDM845 Snapdragon 845 (10 nm),6.1,IPS LCD
+Điện thoại Xiaomi Redmi 12C (Helio G85),1950000.0,5000.0,4.0,64.0,Mediatek MT6769Z Helio G85 (12nm),6.71,IPS LCD
+Điện thoại Xiaomi Redmi 13R 5G (Màn hình 90Hz),2450000.0,5000.0,4.0,128.0,MediaTek Dimensity 6100+ (6 nm),6.74,IPS LCD
+Điện thoại Xiaomi Redmi Note 12R (Snapdragon 4 Gen 2),2550000.0,5000.0,4.0,128.0,Qualcomm Snapdragon 4 Gen 2 (4 nm),6.79,IPS LCD
+Điện thoại Xiaomi Redmi 13C Chính hãng (Camera 50MP),2600000.0,5000.0,4.0,128.0,Mediatek MT6769Z Helio G85 (12nm),6.74,IPS LCD
+Điện thoại Xiaomi POCO C65 (Camera 50MP),2600000.0,5000.0,6.0,128.0,Mediatek Helio G85 (12nm),6.74,IPS LCD
+Điện thoại Xiaomi Redmi 12 5G (Snapdragon 4 Gen 2),2650000.0,5000.0,4.0,128.0,Qualcomm Snapdragon 4 Gen 2 (4 nm),6.79,IPS LCD
+Điện thoại Xiaomi Redmi Note 12 5G (Snapdragon 4 Gen 1),2750000.0,5000.0,4.0,128.0,Qualcomm SM4375 Snapdragon 4 Gen 1 (6 nm),6.67,OLED
+Điện thoại Xiaomi Redmi 14C Chính hãng (Helio G81Ultra) siêu rẻ,2800000.0,5160.0,4.0,128.0,MediaTek Helio G81 Ultra (12 nm),6.88,IPS LCD
+Điện thoại OPPO A3x 5G (Dùng như máy Chính hãng),2850000.0,5100.0,4.0,128.0,MediaTek Dimensity 6300 (6 nm),6.67,IPS LCD
+Điện thoại Xiaomi Redmi Note 11 5G (Dimensity 810),2950000.0,0.0,4.0,128.0,Dimensity 810 (6 nm),6.6,IPS LCD
+Điện thoại Realme V60 5G (V60s) (Dimensity 6300),3150000.0,5000.0,6.0,128.0,MediaTek Dimensity 6300 (6 nm),6.67,IPS LCD
+Điện thoại Realme 11 5G (Dimensity 6020),3250000.0,5000.0,8.0,128.0,Mediatek Dimensity 6020 (7 nm),6.43,AMOLED
+Điện thoại Xiaomi Redmi Note 12 Cũ,3250000.0,5000.0,4.0,128.0,Qualcomm SM4375 Snapdragon 4 Gen 1 (6 nm),6.67,OLED
+Điện thoại Xiaomi Redmi Note 13 5G China (Dimensity 6080),3450000.0,5000.0,6.0,128.0,Mediatek Dimensity 6080 (6 nm),6.67,AMOLED
+Điện thoại Vivo iQOO Z9x 5G (pin 6000mAh),3650000.0,6000.0,8.0,128.0,Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),6.72,IPS LCD
+Điện thoại Xiaomi Redmi Note 11 Pro Plus 5G (Dimensity 920),3650000.0,4500.0,6.0,128.0,MediaTek Dimensity 920 5G (6 nm),6.67,AMOLED
+Điện thoại Xiaomi Redmi Note 13 Chính hãng DGW (Snapdragon 685),3950000.0,5000.0,6.0,128.0,Qualcomm SM6225 Snapdragon 685 (6 nm),6.67,AMOLED
+Điện thoại Xiaomi Redmi Note 14 5G (Dimensity 7025),4050000.0,5110.0,6.0,128.0,Mediatek Dimensity 7025 Ultra (6 nm),6.67,OLED
+Điện thoại Xiaomi Redmi Note 12 Pro Speed Edition (Snapdragon 778G - Cam 108MP),4250000.0,5000.0,8.0,128.0,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),6.67,OLED
+Điện thoại Samsung Galaxy S21 FE Cũ 5G (Snapdragon 888 5G - 99.9%),4450000.0,4500.0,6.0,128.0,Bản 1: Qualcomm Snapdragon 888 5G (5 nm) ,6.4,AMOLED
+Điện thoại Xiaomi Redmi Note 13 Pro 5G (Snapdragon 7s Gen 2),4550000.0,5100.0,8.0,128.0,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),6.67,AMOLED
+Điện thoại Vivo iQOO Z9 5G (Snapdragon 7 Gen 3),4850000.0,6000.0,8.0,128.0,Qualcomm Snapdragon 7 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Xiaomi Redmi Note 14 Pro 5G (Dimensity 7300 Ultra),4950000.0,5500.0,8.0,128.0,MediaTek Dimensity 7300 Ultra (4 nm),6.67,AMOLED
+"Điện thoại Samsung Galaxy S21 cũ 5G (Snap 888/Exynos 2100, 5G - 99.9%)",4950000.0,4000.0,8.0,128.0,Exynos 2100 (5 nm): 8 nhân (1x2.9 GHz & 3x2.80 GHz & 4x2.2 GHz),6.2,AMOLED
+"Điện thoại Realme 11 Pro Cũ 5G (99,9% - màn AMOLED cong 1 tỷ màu)",4950000.0,5000.0,8.0,256.0,MediaTek MT6877V Dimensity 7050 (6 nm),6.7,AMOLED
+Điện thoại Xiaomi Redmi Turbo 3 5G (Snapdragon 8s Gen 3),5250000.0,5000.0,8.0,256.0,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),6.67,AMOLED
+Điện thoại Realme GT Neo 6 SE 5G (Snapdragon 7+ Gen 3),5750000.0,5500.0,8.0,256.0,Qualcomm Snapdragon 7+ Gen 3 (4 nm),6.78,AMOLED
+"Điện thoại iPhone 11 cũ (Chính hãng, Rẻ hơn 35%)",5750000.0,3110.0,4.0,64.0,Apple A13 Bionic (7 nm+),6.1,IPS LCD
+Điện thoại Samsung Galaxy S21 Plus cũ Chính hãng giá rẻ nhất,5750000.0,4800.0,8.0,128.0,Bản quốc tế: Exynos 2100 (5 nm),6.7,AMOLED
+Điện thoại Samsung Galaxy S22 cũ Chính hãng (Snapdragon 8 Gen 1 - 99%),5950000.0,3700.0,8.0,128.0,- Châu Âu: Exynos 2200 (4 nm),6.1,AMOLED
+Điện thoại iPhone XS Max cũ (Chính hãng),5950000.0,3174.0,4.0,64.0,Apple A12 Bionic (7 nm),6.5,OLED
+Điện thoại OnePlus Ace 3V 5G (Snapdragon 7+ Gen 3) - Đã Unlock,6450000.0,5500.0,12.0,256.0,Qualcomm Snapdragon 7+ Gen 3 (4 nm),6.74,AMOLED
+Điện thoại Vivo iQOO Z9 Turbo 5G (Snapdragon 8s Gen 3 - Pin 6000mAh),6550000.0,6000.0,12.0,256.0,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Xiaomi Redmi Note 14 Pro Plus 5G (Snapdragon 7s Gen 3),6750000.0,6200.0,12.0,256.0,Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm),6.67,AMOLED
+Điện thoại iPhone 11 Pro cũ (Chính hãng) - Giá Rẻ hơn 36%,6950000.0,3046.0,4.0,64.0,Apple A13 Bionic (7 nm+),5.8,OLED
+"Điện thoại Samsung Galaxy S22 Plus Cũ 5G (Snap 8 Gen 1, Sạc 45W - 99%)",6950000.0,4500.0,8.0,128.0,Bản QT: Qualcomm SM8450 Snapdragon 8 Gen1 (4 nm),6.6,AMOLED
+Điện thoại Realme GT Neo 6 5G (Snapdragon 8s Gen 3 - Màn hình sáng 6000nit),6950000.0,5500.0,12.0,256.0,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Xiaomi Redmi K70 (Snapdragon 8 Gen 2),7350000.0,5000.0,12.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.67,OLED
+"Điện thoại Samsung Galaxy Note 20 Ultra Cũ 5G (Snap865+, Camera 108MP - 99.9%)",7450000.0,4500.0,12.0,128.0,Exynos 990 (7 nm+) - Việt Nam,6.9,AMOLED
+"Điện thoại Samsung Galaxy S21 Ultra Cũ 5G (Hàn Quốc, Mỹ - Snapdragon 888)",7450000.0,5000.0,12.0,128.0,1. Quốc tế:,6.8,AMOLED
+Điện thoại Vivo iQOO Neo 9 5G (Snapdragon 8 Gen 2),7450000.0,5160.0,12.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.78,AMOLED
+Điện thoại Samsung Galaxy S23 FE cũ Chính hãng (99.9% - Quay phim 8K),7650000.0,4500.0,8.0,128.0,Bản Mỹ: Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),6.4,AMOLED
+Điện thoại iPhone 11 Pro Max cũ (Chính hãng) - Giá Rẻ hơn 39%,7750000.0,3969.0,4.0,64.0,Apple A13 Bionic (7 nm+),6.5,OLED
+Điện thoại Vivo iQOO Neo 9S Pro 5G (Dimensity 9300 Plus),8250000.0,5160.0,12.0,256.0,MediaTek Dimensity 9300+ (4 nm),6.78,AMOLED
+Điện thoại Vivo iQOO Z9 Turbo Plus (Dimensity 9300 Plus),8650000.0,6400.0,12.0,256.0,MediaTek Dimensity 9300 Plus (4 nm),6.78,AMOLED
+Điện thoại iPhone 12 Pro cũ (Chính hãng),8750000.0,2815.0,6.0,128.0,Apple A14 Bionic (5 nm),6.1,OLED
+Điện thoại Xiaomi Redmi K70 Ultra 5G (Dimensity 9300 Plus),8750000.0,5500.0,12.0,256.0,MediaTek Dimensity 9300+ (4 nm),6.67,OLED
+Điện thoại Realme GT6 5G AI (Snapdragon 8 Gen 3),9450000.0,5800.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Vivo iQOO Neo 9S Pro Plus 5G (Snapdragon 8 Gen 3 - Màn 144Hz),9450000.0,5500.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Xiaomi 13 (Giá rẻ ~10tr),9450000.0,4500.0,8.0,128.0,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.36,AMOLED
+Điện thoại Xiaomi Redmi K70 Pro (Snapdragon 8 Gen 3),9550000.0,5000.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.67,OLED
+Điện thoại iPhone 13 cũ (Rẻ hơn 35%),9650000.0,3240.0,4.0,128.0,Apple A15 Bionic (5 nm),6.1,OLED
+Điện thoại Samsung Galaxy S22 Ultra cũ 5G (Màn 2K - Camera 108MP- 99%),9950000.0,5000.0,8.0,128.0,Bản QT: Qualcomm SM8450 Snapdragon 8 Gen1 (4 nm),6.8,AMOLED
+Điện thoại Xiaomi 14T Chính hãng DGW (Dimensity 8300 Ultra),10150000.0,5000.0,12.0,256.0,MediaTek Dimensity 8300 Ultra (4 nm),6.67,AMOLED
+Điện thoại Samsung Galaxy S23 Plus cũ Chính hãng,11750000.0,4700.0,8.0,256.0,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm) - For Galaxy,6.6,AMOLED
+"Điện thoại iPhone 14 Cũ (Likenew, 99%)",11950000.0,3279.0,6.0,128.0,Apple A15 Bionic (5 nm),6.1,OLED
+Điện thoại iPhone 12 Pro Max cũ,11950000.0,3687.0,6.0,128.0,Apple A14 Bionic (5 nm),6.7,OLED
+Điện thoại iPhone 14 Plus cũ (Chính hãng - 99.9%),13250000.0,4323.0,6.0,128.0,Apple A15 Bionic (5 nm),6.7,OLED
+Điện thoại Xiaomi 14T Pro Chính hãng DGW (Dimensity 9300 Plus),13650000.0,5000.0,12.0,256.0,MediaTek Dimensity 9300 Plus (4 nm),6.67,AMOLED
+Điện thoại iPhone 13 Pro Max cũ (Chính hãng - Giảm giá 30%),14450000.0,4352.0,6.0,128.0,Apple A15 Bionic (5 nm),6.7,OLED
+Điện thoại Samsung Galaxy S24 Plus cũ (99% - giá siêu rẻ),14750000.0,4900.0,12.0,256.0,Mỹ/Canada/China: Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.7,AMOLED
+Điện thoại Vivo iQOO 13 5G (Snapdragon 8 Elite),14850000.0,6150.0,12.0,256.0,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),6.82,AMOLED
+Điện thoại Samsung Galaxy S23 Ultra cũ Chính hãng,14950000.0,5000.0,8.0,256.0,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm) - For Galaxy,6.8,AMOLED
+Điện thoại iPhone 15 cũ (Chính hãng - Đẹp như mới),14950000.0,3349.0,6.0,128.0,Apple A16 Bionic (4 nm),6.1,OLED
+Điện thoại iPhone 15 Plus cũ (99.9% - Có trả góp 0%),16250000.0,4383.0,6.0,128.0,Apple A16 Bionic (4 nm),6.7,OLED
+Điện thoại Xiaomi 15 5G (Snapdragon 8 Elite),15850000.0,5400.0,12.0,256.0,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),6.36,OLED
+Điện thoại iPhone 14 Pro cũ (Chính hãng VN/A),15950000.0,3200.0,6.0,128.0,Apple A16 Bionic (4 nm),6.1,OLED
+Điện thoại iPhone 14 Pro Max cũ (Chính hãng),17450000.0,4323.0,6.0,128.0,Apple A16 Bionic (4 nm),6.7,OLED
+"Điện thoại iPhone 15 Pro Cũ (99.9% - Chính hãng, Trả góp 0%)",18250000.0,3274.0,8.0,128.0,Apple A17 Pro (3 nm),6.1,OLED
+Điện thoại Xiaomi Redmi A3x (Mặt lưng kính - Màn IPS LCD 90Hz),1750000.0,5000.0,3.0,64.0,Unisoc Tiger T603 (12 nm),6.71,IPS LCD
+Điện thoại Bkav Bphone A40 (Giảm giá 60%),1850000.0,5000.0,4.0,64.0,MediaTek Helio G85 (12nm),6.67,IPS LCD
+Điện thoại Tecno Spark Go 2023 (Chính hãng - Pin 5000 mAh),1890000.0,5000.0,2.0,32.0,Mediatek MT6761 Helio A22 (12 nm),6.56,IPS LCD
+"Điện thoại Realme C30s (Chính hãng - Pin 5000mAh, màn 6.5 inch)",2020000.0,5000.0,2.0,32.0,Unisoc SC9863A (28nm),6.5,IPS LCD
+Điện thoại Realme Note 60 Chính hãng (Giá siêu rẻ),2250000.0,5000.0,4.0,64.0,Unisoc Tiger T612 (12 nm),6.74,IPS LCD
+Điện thoại Tecno Spark 30C (Helio G81),2250000.0,5000.0,4.0,128.0,MediaTek Helio G81,6.67,IPS LCD
+Điện thoại Tecno Spark 20 (RAM 8GB),2250000.0,5000.0,8.0,256.0,MediaTek MT6769Z Helio G85 (12nm),6.6,IPS LCD
+Điện thoại Xiaomi Redmi A3,2250000.0,5000.0,3.0,64.0,Mediatek Helio G36 (12 nm),6.71,IPS LCD
+Điện thoại Realme Note 50 Chính hãng (Màn hình 90Hz),2290000.0,5000.0,3.0,64.0,Unisoc Tiger T612 (12 nm),6.74,IPS LCD
+Điện thoại Tecno Spark 6 Go (Chính hãng),2300000.0,5000.0,2.0,32.0,"Mediatek MT6761D Helio A20 (12 nm): 8 nhân (4x1.8 GHz & 4x1.5 GHz) - Phiên bản 2GB, 3GB",6.52,IPS LCD
+"Điện thoại Xiaomi POCO C61 (Màn IPS LCD, 90Hz)",2350000.0,5000.0,4.0,64.0,Mediatek Helio G36 (12 nm),6.71,IPS LCD
+Điện thoại Bkav Bphone A50 (Giảm 58.1% Giá bán),2350000.0,5000.0,4.0,128.0,MediaTek Helio G85 (12nm),6.67,IPS LCD
+Điện thoại Xiaomi Redmi A3 Pro Global (Helio G81 Ultra),2350000.0,5160.0,4.0,128.0,MediaTek Helio G81 Ultra (12 nm),6.88,IPS LCD
+"Điện thoại Realme C11 (2021) Chính hãng (Unisoc SC9863A, pin 5000mAh)",2450000.0,5000.0,2.0,32.0,Unisoc SC9863A,6.52,IPS LCD
+Điện thoại Gionee G13 Pro,2450000.0,3500.0,4.0,32.0,Unisoc Tiger T310 (12nm),6.26,IPS LCD
+Điện thoại Xiaomi Redmi 10A (Chính hãng DGW),2450000.0,5000.0,4.0,64.0,MediaTek MT6762G Helio G25 (12 nm),6.53,IPS LCD
+Điện thoại Tecno Spark 20C (Dynamic Island giá rẻ),2450000.0,5000.0,4.0,128.0,MediaTek,6.6,IPS LCD
+Điện thoại Tecno Spark 20 Pro (Màn hình 120Hz),2550000.0,5000.0,8.0,256.0,Mediatek Helio G99 (6nm),6.78,IPS LCD
+Điện thoại Bkav Bphone A60 (Giảm giá cực SỐC),2750000.0,5000.0,6.0,128.0,MediaTek Helio G85 (12nm),6.67,IPS LCD
+Điện thoại Realme C51s (Camera 50MP),2750000.0,5000.0,6.0,128.0,Unisoc Tiger T612 (12 nm),6.74,IPS LCD
+Điện thoại Realme C33 Chính hãng,2750000.0,5000.0,3.0,32.0,Unisoc Tiger T612 (12 nm),6.5,IPS LCD
+Điện thoại Xiaomi Redmi A1+ (Cảm biến vân tay - Pin 5000mAh),2750000.0,5000.0,2.0,32.0,Mediatek MT6761 Helio A22 (12 nm),6.52,IPS LCD
+Điện thoại Tecno POVA 5 Cũ 99.9% (Chính hãng),2800000.0,6000.0,8.0,128.0,Mediatek Helio G99 (6nm),6.78,IPS LCD
+Điện thoại Xiaomi Redmi Note 11 Pro Cũ (Camera 108MP - 99%),2800000.0,5160.0,6.0,128.0,MediaTek Dimensity 920 5G (6 nm),6.67,AMOLED
+Điện thoại OPPO A17k (Chính hãng - Hỗ trợ IPX4),2820000.0,5000.0,3.0,64.0,Mediatek MT6765 Helio G35 (12 nm),6.56,IPS LCD
+Điện thoại itel Power 55 5G (Dimensity 6080),2850000.0,5000.0,4.0,64.0,MediaTek Dimensity 6080 (6 nm),6.6,IPS LCD
+"Điện thoại LG V50 ThinQ 5G cũ (Snapdragon 855, màn 2K)",2850000.0,4000.0,6.0,128.0,Qualcomm SM8150 Snapdragon 855 (7 nm),6.4,OLED
+Điện thoại Vivo Y03 Chính hãng (Màn hình 90Hz),2950000.0,5000.0,4.0,64.0,MediaTek MT6769Z Helio G85 (12nm),6.56,IPS LCD
+Điện thoại Xiaomi Redmi Note 11T Pro Plus Cũ (Dimensity 8100),2950000.0,4400.0,8.0,128.0,MediaTek Dimensity 8100 (5 nm),6.6,IPS LCD
+Điện thoại itel S23 Plus (Màn hình AMOLED cong),2950000.0,5000.0,4.0,128.0,Unisoc Tiger T616 (12 nm),6.78,AMOLED
+Điện thoại Vivo iQOO Z9x cũ (Đẹp 99% - Nguyên bản 100%),2950000.0,6000.0,8.0,128.0,Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),6.72,IPS LCD
+Điện thoại Realme 10 Pro Cũ (99% - Snapdragon 695 5G),2950000.0,5000.0,8.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.72,IPS LCD
+Điện thoại Xiaomi POCO C75 (màn 120Hz - 6.88 inch),2950000.0,5160.0,6.0,128.0,MediaTek Helio G81 Ultra (12 nm),6.88,IPS LCD
+Điện thoại Xiaomi Black Shark 3 Cũ 5G (Snapdragon 865),2950000.0,4720.0,8.0,128.0,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),6.67,AMOLED
+Điện thoại Xiaomi Redmi A4 5G (Snapdragon 4s Gen 2),2990000.0,5000.0,8.0,128.0,Qualcomm SM4635 Snapdragon 4s Gen 2 (4 nm),6.7,IPS LCD
+Điện thoại Xiaomi Redmi Note 13 Chính hãng cũ (DGW - Đẹp 99%),3000000.0,5000.0,6.0,128.0,Qualcomm SM6225 Snapdragon 685 (6 nm),6.67,AMOLED
+Điện thoại Realme C51 (Pin 5000mAh - Mini Capsule),3015000.0,5000.0,4.0,64.0,Unisoc Tiger T612 (12 nm),6.7,IPS LCD
+Điện thoại Xiaomi Redmi Note 12 Pro Cũ,3100000.0,5000.0,6.0,128.0,MediaTek Dimensity 1080 (6nm),6.67,OLED
+Điện thoại Realme Narzo 50A Prime (Chính hãng),3150000.0,5000.0,4.0,64.0,Unisoc Tiger T612 (12 nm),6.58,IPS LCD
+Điện thoại Realme C65 5G (Dimensity 6300),3150000.0,5000.0,4.0,64.0,MediaTek Dimensity 6300 (6 nm),6.67,IPS LCD
+Điện thoại Realme C63 (Màn 90Hz - Sạc 45W),3150000.0,5000.0,6.0,128.0,Unisoc Tiger T612 (12 nm),6.75,IPS LCD
+Điện thoại Tecno Spark 30 (Helio G91),3150000.0,5000.0,8.0,128.0,MediaTek Helio G91 Ultra (12 nm),6.78,IPS LCD
+Điện thoại Xiaomi POCO M6 5G (màn hình 90Hz),3150000.0,5000.0,4.0,128.0,MediaTek Dimensity 6100+ (6 nm),6.74,IPS LCD
+Điện thoại Xiaomi Redmi K40 Cũ (99% - Snapdragon 870),3200000.0,4520.0,6.0,128.0,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),6.67,AMOLED
+Điện thoại Realme Narzo N65 5G (Chip Dimensity 6300 - IP54),3250000.0,5000.0,4.0,128.0,MediaTek Dimensity 6300 (6 nm),6.67,IPS LCD
+Điện thoại Xiaomi POCO M6 Pro 5G (Snapdragon 4 Gen 2),3250000.0,5000.0,4.0,64.0,Qualcomm Snapdragon 4 Gen 2 (4 nm),6.79,IPS LCD
+Điện thoại Realme C35 Chính hãng (Camera 50MP - Pin 5000mAh),3250000.0,5000.0,4.0,64.0,Unisoc Tiger T616 (12 nm),6.6,IPS LCD
+Điện thoại Vivo iQOO Z9 Lite 5G (Dimensity 6300),3250000.0,5000.0,4.0,128.0,Mediatek Dimensity 6300 (6 nm),6.56,IPS LCD
+Điện thoại Vivo iQOO Z7i 5G (Dimensity 6020),3250000.0,5000.0,4.0,128.0,Mediatek Dimensity 6020 (7 nm),6.51,IPS LCD
+Điện thoại Xiaomi Redmi Note 11T Pro Cũ (Màn 144Hz - 99%),3250000.0,5080.0,6.0,128.0,MediaTek Dimensity 8100 (5 nm),6.6,IPS LCD
+Điện thoại Thành Hưng Hero 9,3290000.0,5000.0,3.0,32.0,MediaTek MT6762D Helio A25 (12 nm),6.517,IPS LCD
+Điện thoại Xiaomi Redmi K40S Cũ (Snapdragon 870 5G),3300000.0,4500.0,6.0,128.0,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),6.67,AMOLED
+Điện thoại Vivo Y20 (Chính hãng),3450000.0,5000.0,3.0,64.0,Qualcomm SM4250 Snapdragon 460 (11 nm) ,6.51,IPS LCD
+Điện thoại Tecno Spark 10 Pro (Chính hãng - Helio G88),3450000.0,5000.0,8.0,128.0,MediaTek Helio G88 (12nm),6.8,IPS LCD
+"Điện thoại Xiaomi Black Shark 2 (RAM 6GB, 8GB)",3450000.0,4000.0,6.0,128.0,Snapdragon 855 8 nhân 64-bit,6.39,AMOLED
+Điện thoại Xiaomi Redmi K50 cũ,3500000.0,5500.0,8.0,128.0,MediaTek Dimensity 8100 (5 nm),6.67,OLED
+Điện thoại ZTE Axon A41 5G (Snapdragon 870),3550000.0,5000.0,8.0,128.0,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),6.67,OLED
+"Điện thoại Vivo Y17s (Helio G85, IP54)",3550000.0,5000.0,6.0,128.0,MediaTek Helio G85 (12nm),6.56,IPS LCD
+Điện thoại Xiaomi Redmi 13C 5G (Dimensity 6100 Plus),3550000.0,5000.0,4.0,128.0,Mediatek Dimensity 6100+ (6 nm),6.74,IPS LCD
+Điện thoại Realme C65 Chính hãng (Sạc nhanh 45W),3650000.0,5000.0,6.0,128.0,Mediatek MT6769Z Helio G85 (12nm),6.67,IPS LCD
+Điện thoại Realme Narzo 70x 5G (Dimensity 6100 Plus),3650000.0,5000.0,4.0,128.0,Mediatek Dimensity 6100+ (6 nm),6.72,IPS LCD
+Điện thoại Vivo Y21 Chính hãng,3650000.0,5000.0,4.0,64.0,Mediatek MT6765 Helio P35 (12nm),6.51,IPS LCD
+Điện thoại Realme Q5 Pro (Snapdragon 870),3650000.0,5000.0,6.0,128.0,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),6.62,AMOLED
+"Điện thoại OPPO A57 (Chính hãng - Pin 5000mAh, sạc 33W)",3700000.0,5000.0,3.0,64.0,Mediatek MT6765G Helio G35 (12 nm),6.56,IPS LCD
+Điện thoại Vivo Y27s (Snapdragon 680),3750000.0,5000.0,8.0,128.0,Qualcomm SM6225 Snapdragon 680 4G (6 nm),6.64,IPS LCD
+Điện thoại Vivo Y78t 5G (Snapdragon 6 Gen 1),3750000.0,6000.0,8.0,128.0,Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),6.64,IPS LCD
+Điện thoại Realme Narzo 60x 5G (Dimensity 6100+),3760000.0,5000.0,4.0,128.0,Mediatek Dimensity 6100+ (6 nm),6.72,IPS LCD
+Điện thoại Motorola Moto G14 (Pin 5000mAh có sạc nhanh),3790000.0,5000.0,4.0,128.0,Unisoc Tiger T616 (12 nm),6.5,IPS LCD
+Điện thoại Xiaomi Redmi 14R 5G (Snapdragon 4 Gen 2),3850000.0,5160.0,4.0,128.0,Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm),6.88,IPS LCD
+Điện thoại Tecno POVA 6 Neo 5G (Dimensity 6300),3850000.0,5000.0,6.0,128.0,MediaTek Dimensity 6300 (6 nm),6.67,IPS LCD
+Điện thoại Realme C67 5G (Dimensity 6100 Plus),3850000.0,5000.0,4.0,128.0,Mediatek Dimensity 6100+ (6 nm),6.72,IPS LCD
+Điện thoại Tecno POVA 4 Chính hãng (Helio G99 - Màn 90Hz),3850000.0,6000.0,8.0,128.0,MediaTek MT8781 Helio G99 (6nm),6.82,IPS LCD
+Điện thoại Motorola Moto G54 (China) 5G (Dimensity 7020),3950000.0,5000.0,8.0,128.0,MediaTek Dimensity 7020 (6 nm),6.5,IPS LCD
+Điện thoại Tecno Spark 10 Pro Moon Explorer Edition,3950000.0,5000.0,8.0,128.0,MediaTek Helio G88 (12nm),6.8,IPS LCD
+"Điện thoại Google Pixel 4 XL (Snapdragon 855, màn OLED 2K)",3950000.0,3700.0,6.0,64.0,Qualcomm SM8150 Snapdragon 855 (7 nm),6.3,OLED
+Điện thoại Vivo iQOO Z9 cũ (Đẹp 99% - Nguyên zin 100%),3950000.0,6000.0,8.0,128.0,Qualcomm Snapdragon 7 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Tecno CAMON 30S (Helio G100),3950000.0,5000.0,6.0,128.0,Mediatek Helio G100 (6 nm),6.78,AMOLED
+Điện thoại Vivo iQOO Z10x 5G (Snapdragon 7s Gen 2),3950000.0,6500.0,8.0,128.0,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),6.72,IPS LCD
+Điện thoại Tecno Spark 20 Pro Plus (Helio G99 Ultimate),3950000.0,5000.0,8.0,256.0,MediaTek Helio G99 Ultimate,6.78,AMOLED
+Điện thoại Realme GT Neo 5 SE Cũ - 99% đẹp như mới,3950000.0,5500.0,8.0,256.0,Qualcomm SM7475-AB Snapdragon 7+ Gen 2 (4 nm),6.74,OLED
+"Điện thoại Xiaomi Redmi K50 Pro cũ (Dimensity 9000, camera 108 MP OIS)",4000000.0,5000.0,8.0,128.0,MediaTek Dimensity 9000 (4 nm),6.67,OLED
+Điện thoại Xiaomi 12X cũ (Đẹp 99% - Snapdragon 870 5G),4000000.0,4500.0,8.0,128.0,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),6.28,AMOLED
+"Điện thoại Xiaomi Redmi Note 13 Pro Cũ (99,9% - giá cực rẻ)",4000000.0,5100.0,8.0,128.0,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),6.67,OLED
+Điện thoại Realme C55 Chính hãng (Màn Full HD - 90Hz),4050000.0,5000.0,6.0,128.0,Mediatek Helio G88 (12nm),6.72,IPS LCD
+Điện thoại Xiaomi Redmi Note 14 Pro cũ (Đẹp 99% - Nguyên zin 100%),4050000.0,5500.0,8.0,128.0,MediaTek Dimensity 7300 Ultra (4 nm),6.67,AMOLED
+Điện thoại Xiaomi Redmi 14 (Helio G91 Ultra),4050000.0,5110.0,6.0,128.0,Mediatek Helio G91 Ultra (12 nm),6.79,IPS LCD
+Điện thoại Xiaomi Redmi Note 12 Turbo cũ (Snapdragon 7+ Gen 2),4100000.0,5000.0,8.0,256.0,Qualcomm SM7475-AB Snapdragon 7+ Gen 2 (4 nm),6.67,OLED
+Điện thoại Realme C67 4G (Camera 108MP),4150000.0,5000.0,8.0,128.0,Qualcomm SM6225 Snapdragon 685 (6 nm),6.72,IPS LCD
+Điện thoại Xiaomi Redmi K40 Gaming Edition Cũ,4200000.0,5065.0,6.0,128.0,MediaTek Dimensity 1200 5G (6 nm) ,6.67,OLED
+Điện thoại Xiaomi Redmi 13 4G (Helio G91 Ultra),4250000.0,5030.0,6.0,128.0,MediaTek Helio G91 Ultra (12 nm),6.79,IPS LCD
+Điện thoại Vivo iQOO Z7x 5G (Snapdragon 695 5G),4250000.0,6000.0,6.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.64,IPS LCD
+Điện thoại Samsung Galaxy A15 Chính hãng (Helio G99),4250000.0,5000.0,8.0,128.0,MediaTek Helio G99 (6nm),6.5,AMOLED
+Điện thoại Xiaomi POCO M6 4G Chính hãng (Helio G91 Ultra),4250000.0,5030.0,6.0,128.0,MediaTek Helio G91 Ultra (12 nm),6.79,IPS LCD
+Điện thoại Xiaomi Redmi 12 (Helio G88),4250000.0,5000.0,4.0,128.0,Mediatek Helio G88 (12nm),6.79,IPS LCD
+Điện thoại Realme C53 Chính hãng (pin 5000mAh),4250000.0,5000.0,6.0,128.0,Unisoc Tiger T612 (12 nm),6.74,IPS LCD
+Điện thoại Realme 10s 5G (Dimensity 810 - Màn 90Hz),4250000.0,5000.0,8.0,128.0,MediaTek MT6833P Dimensity 810 (6 nm),6.6,IPS LCD
+Điện thoại Tecno POVA 4 Pro Chính hãng (Pin 6000 mAh - Helio G99),4250000.0,6000.0,8.0,256.0,MediaTek MT8781 Helio G99 (6nm),6.66,AMOLED
+Điện thoại Tecno POVA 3 (Chính hãng),4350000.0,7000.0,4.0,64.0,MediaTek Helio G88 (12nm),6.9,IPS LCD
+Điện thoại Xiaomi Redmi 13 5G (Snapdragon 4 Gen 2 AE),4350000.0,5030.0,6.0,128.0,Qualcomm SM4450 Snapdragon 4 Gen 2 AE (4 nm),6.79,IPS LCD
+Điện thoại Vivo Y200t 5G (Snapdragon 6 Gen 1),4350000.0,6000.0,8.0,128.0,Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),6.72,IPS LCD
+Điện thoại Xiaomi Redmi K50 Ultra (Extreme Edition) Cũ (Snap 8+ Gen 1),4400000.0,5000.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.67,OLED
+Điện thoại Realme GT Master Edition Cũ 5G (Snapdragon 778G),4450000.0,4300.0,6.0,128.0,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),6.43,AMOLED
+Điện thoại Xiaomi Redmi Turbo 3 cũ (Đẹp 99%),4450000.0,5000.0,8.0,256.0,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),6.67,AMOLED
+Điện thoại Realme Narzo 50 Chính hãng (Helio G96 - Màn 120Hz),4450000.0,5000.0,4.0,64.0,Mediatek Helio G96 (12 nm),6.6,IPS LCD
+Điện thoại Realme 12 5G (Dimensity 6100 Plus),4490000.0,5000.0,6.0,128.0,Mediatek Dimensity 6100+ (6 nm),6.72,IPS LCD
+Điện thoại Vivo Y78 5G (Dimensity 7020),4550000.0,5000.0,8.0,128.0,Mediatek Dimensity 7020 (6 nm),6.64,IPS LCD
+Điện thoại Xiaomi POCO M7 (Helio G91 Ultra),4550000.0,5000.0,6.0,128.0,Mediatek Helio G91 Ultra (12 nm),6.79,IPS LCD
+Điện thoại Xiaomi Black Shark 3 Pro 5G (Snapdragon 865 - Màn 2K+),4590000.0,5000.0,8.0,256.0,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),7.1,AMOLED
+Điện thoại Vivo Y21s Chính hãng,4600000.0,5000.0,4.0,128.0,Mediatek Helio G80 (12 nm),6.51,IPS LCD
+Điện thoại Realme P1 Pro 5G (Snapdragon 6 Gen 1),4650000.0,5000.0,8.0,128.0,Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),6.7,AMOLED
+Điện thoại Realme Narzo 70 5G (Dimensity 7050),4650000.0,5000.0,6.0,128.0,MediaTek Dimensity 7050 (6 nm),6.67,AMOLED
+Điện thoại Tecno POVA 5 Pro 5G (Dimensity 6080),4650000.0,5000.0,8.0,256.0,Mediatek Dimensity 6080 (6 nm),6.78,IPS LCD
+Điện thoại Tecno CAMON 20 Avocado Art Edition,4690000.0,5000.0,8.0,256.0,Mediatek MT6769Z Helio G85 (12nm),6.67,AMOLED
+Điện thoại Vivo Y100 5G (Snapdragon 695 5G),4690000.0,5000.0,8.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.78,AMOLED
+Điện thoại Xiaomi 12 Pro cũ (99.9% - Snapdragon 8 Gen 1),4700000.0,4600.0,8.0,128.0,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),6.73,AMOLED
+Điện thoại OPPO A76 (Chính hãng - Snapdragon 680),4730000.0,5000.0,4.0,128.0,Qualcomm SM6225 Snapdragon 680 4G (6 nm),6.56,IPS LCD
+Điện thoại Vivo iQOO Neo 8 cũ (Đẹp 99%),4750000.0,5000.0,12.0,256.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.78,AMOLED
+Điện thoại Xiaomi POCO X6 Neo 5G (Dimensity 6080),4750000.0,5000.0,8.0,128.0,Mediatek Dimensity 6080 (6 nm),6.67,OLED
+Điện thoại Motorola Moto G (2023) 5G (Màn hình 120Hz),4820000.0,5000.0,4.0,128.0,Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm),6.5,IPS LCD
+Điện thoại Realme 12x 5G ( Dimensity 6100 Plus),4850000.0,5000.0,12.0,256.0,Mediatek Dimensity 6100+ (6 nm),6.67,IPS LCD
+Điện thoại Realme P1 5G (Dimensity 7050),4850000.0,5000.0,6.0,128.0,MediaTek Dimensity 7050 (6 nm),6.67,AMOLED
+Điện thoại Vivo iQOO Z8x 5G (Snapdragon 6 Gen 1),4850000.0,6000.0,8.0,128.0,Snapdragon 6 Gen 1 (4 nm),6.64,IPS LCD
+Điện thoại Tecno Spark 20 Pro 5G (Dimensity 6080),4850000.0,5000.0,8.0,128.0,MediaTek Dimensity 6080 (6 nm),6.78,IPS LCD
+Điện thoại Xiaomi Redmi K70E cũ (Đẹp 99%),4900000.0,5500.0,8.0,256.0,MediaTek Dimensity 8300 Ultra (4 nm),6.67,OLED
+Điện thoại ZTE Nubia Neo 2 5G (Gaming Phone Chính hãng rẻ nhất),4950000.0,6000.0,8.0,256.0,Unisoc Tiger T820 (6 nm),6.72,IPS LCD
+Điện thoại Xiaomi Redmi Note 13R 5G (Snapdragon 4 Gen 2 ép xung),4950000.0,5030.0,6.0,128.0,Qualcomm SM4450 Snapdragon 4+ Gen 2 (4 nm),6.79,IPS LCD
+Điện thoại Nothing CMF Phone 1 5G (Thay thế nắp lưng như ý),4950000.0,5000.0,6.0,128.0,MediaTek Dimensity 7300 (4 nm),6.67,AMOLED
+Điện thoại Vivo Y77t 5G (Dimensity 7020 - RAM 12 GB),4950000.0,5000.0,8.0,256.0,Mediatek Dimensity 7020 (6 nm),6.64,IPS LCD
+Điện thoại OPPO K11x 5G (Snapdragon 695 5G),4950000.0,5000.0,8.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.72,IPS LCD
+Điện thoại Tecno CAMON 20 Chính hãng (Helio G85),4950000.0,5000.0,8.0,256.0,Mediatek MT6769Z Helio G85 (12nm),6.67,AMOLED
+Điện thoại Realme Narzo 70 Turbo (Dimensity 7300 Energy),4950000.0,5000.0,6.0,128.0,MediaTek Dimensity 7300 Energy (4 nm),6.67,OLED
+Điện thoại Xiaomi Redmi K60E 5G (Dimensity 8200 - Pin 5500mAh),4950000.0,5500.0,8.0,128.0,MediaTek Dimensity 8200 (4 nm),6.67,OLED
+Điện thoại Xiaomi POCO M6 Pro 4G (Màn hình AMOLED 120Hz),4950000.0,5000.0,8.0,256.0,MediaTek Helio G99 Ultra,6.67,AMOLED
+Điện thoại Xiaomi 12S Cũ (Snap 8+ Gen 1 - 99%),5000000.0,4500.0,8.0,128.0,Qualcomm SM8450 Snapdragon 8+ Gen 1 (4 nm),28.0,AMOLED
+Điện thoại ZTE Nubia Neo 3 Chính hãng (Gaming Phone siêu rẻ),5050000.0,6000.0,8.0,256.0,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),6.72,IPS LCD
+Điện thoại Xiaomi Redmi K60 Cũ,5100000.0,5500.0,8.0,128.0,8 nhânQualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.67,OLED
+Điện thoại Realme Narzo 60 5G (Dimensity 6020),5150000.0,5000.0,8.0,128.0,Mediatek Dimensity 6020 (7 nm),6.43,AMOLED
+Điện thoại Vivo iQOO Z7 (Snapdragon 782G),5150000.0,5000.0,8.0,128.0,Qualcomm Snapdragon 782G (6 nm),6.64,IPS LCD
+Điện thoại Realme 13 Pro 5G (Dimensity 7300 Energy),5250000.0,5000.0,8.0,256.0,MediaTek Dimensity 7300 Energy (4 nm),6.67,AMOLED
+Điện thoại Vivo Y28s 5G Global (Dimensity 6300),5250000.0,5000.0,8.0,256.0,MediaTek Dimensity 6300 (6 nm),6.56,IPS LCD
+Điện thoại Xiaomi Redmi Note 12S (Chính hãng - Helio G96),5250000.0,5000.0,6.0,128.0,Mediatek Helio G96 (12 nm),6.43,AMOLED
+Điện thoại Xiaomi Redmi Note 12 Turbo (Snapdragon 7+ Gen 2),5350000.0,5000.0,8.0,256.0,Qualcomm SM7475-AB Snapdragon 7+ Gen 2 (4 nm),6.67,OLED
+Điện thoại Realme 13 5G Global (Dimensity 6300),5350000.0,5000.0,8.0,128.0,MediaTek Dimensity 6300 (6 nm),6.72,IPS LCD
+Điện thoại Vivo Y100i 5G (Dimensity 6020),5350000.0,5000.0,12.0,512.0,Mediatek Dimensity 6020 (7 nm),6.64,IPS LCD
+Điện thoại OPPO A60 Chính hãng (sạc SUPERVOOC 45W),5450000.0,5000.0,8.0,128.0,Qualcomm SM6225 Snapdragon 680 4G (6 nm),6.67,IPS LCD
+Điện thoại Vivo iQOO Z9s 5G (Quốc tế - Dimensity 7300),5450000.0,5500.0,8.0,128.0,MediaTek Dimensity 7300 (4 nm),6.77,AMOLED
+"Điện thoại Vivo Y78 Plus 5G (màn AMOLED 120Hz, sạc 44W)",5450000.0,5000.0,8.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.78,AMOLED
+Điện thoại Vivo Y35m Plus 5G (Dimensity 6020),5450000.0,5000.0,8.0,128.0,MediaTek Dimensity 6020 (7 nm),6.64,IPS LCD
+Điện thoại Honor X50i Plus 5G (Camera 108MP),5450000.0,4500.0,12.0,256.0,Mediatek MT6833P Dimensity 6080 (6 nm),6.7,AMOLED
+Điện thoại Realme 12 Pro 5G (Snapdragon 6 Gen 1),5450000.0,5000.0,8.0,128.0,Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),6.7,AMOLED
+Điện thoại Realme 9 4G Chính hãng (Snapdragon 680 - Camera 108MP),5450000.0,5000.0,6.0,128.0,Qualcomm SM6225 Snapdragon 680 4G (6 nm),6.4,AMOLED
+Điện thoại Tecno CAMON 20 Pro Chính hãng (Helio G99),5490000.0,5000.0,8.0,256.0,Mediatek MT8781 Helio G99 (6nm),6.67,AMOLED
+Điện thoại Realme 12 Lite (Snapdragon 685 - màn 90Hz),5550000.0,5000.0,6.0,128.0,Qualcomm SM6225 Snapdragon 685 (6 nm),6.72,IPS LCD
+Điện thoại Xiaomi Redmi Note 12R Pro 5G (Snapdragon 4 Gen 1),5550000.0,5000.0,12.0,256.0,Qualcomm SM4375 Snapdragon 4 Gen 1 (6 nm),6.67,OLED
+"Điện thoại OPPO A96 (Chính hãng - Snapdragon 680, Màn 90Hz)",5620000.0,5000.0,6.0,128.0,Qualcomm SM6225 Snapdragon 680 4G (6 nm),6.59,IPS LCD
+"Điện thoại Realme GT Neo 5 Lite (Snapdragon 7+ Gen 1, màn 144Hz)",5620000.0,5500.0,8.0,128.0,Snapdragon 7+ Gen 1,6.74,OLED
+Điện thoại Xiaomi Redmi K70E (Dimensity 8300 Ultra),5650000.0,5500.0,8.0,256.0,MediaTek Dimensity 8300 Ultra (4 nm),6.67,OLED
+Điện thoại Vivo Y200 GT 5G (Snapdragon 7 Gen 3 - Pin 6000mAh),5650000.0,6000.0,8.0,128.0,Qualcomm Snapdragon 7 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại OPPO A3 5G (Thiết kế 2 mặt kính độ bền cao),5650000.0,5000.0,8.0,256.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.7,AMOLED
+Điện thoại iPhone XR cũ (Chính hãng),5650000.0,2942.0,3.0,64.0,Apple A12 Bionic (7 nm),6.1,IPS LCD
+Điện thoại Xiaomi Redmi Note 12 Pro 4G (Chính hãng - Snapdragon 732G),5650000.0,5000.0,6.0,128.0,Qualcomm SM7150 Snapdragon 732G (8 nm),6.67,AMOLED
+Điện thoại Tecno POVA 6 Pro 5G (Pin 6000mAh - Sạc 70W),5650000.0,6000.0,8.0,256.0,Mediatek Dimensity 6080 (6 nm),6.78,AMOLED
+Điện thoại Vivo Y35 Plus 5G (Dimensity 6020),5660000.0,5000.0,6.0,128.0,MediaTek Dimensity 6020 (7 nm),6.64,IPS LCD
+Điện thoại Realme Narzo 70 Pro 5G (Camera 50MP Sony IMX890 OIS),5690000.0,5000.0,8.0,128.0,Mediatek Dimensity 7050 (6 nm),6.67,AMOLED
+Điện thoại Infinix GT 10 Pro 5G (Dimensity 8050),5690000.0,5000.0,8.0,256.0,MediaTek Dimensity 8050 (6 nm),6.67,AMOLED
+Điện thoại Vivo Y28 Chính hãng (Pin khủng 6000mAh),5750000.0,6000.0,8.0,128.0,MediaTek Helio G85 (12 nm),6.68,IPS LCD
+Điện thoại Vivo iQOO Z9 Turbo cũ (Đẹp 99% - Nguyên zin),5750000.0,6000.0,12.0,256.0,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Xiaomi 12S Pro Cũ (Màn 2K - sạc 120W - 99%),5800000.0,4600.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.73,AMOLED
+Điện thoại Motorola Moto G84 5G (Snapdragon 695 5G),5850000.0,5000.0,12.0,256.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.55,OLED
+Điện thoại Realme P2 Pro 5G (sạc siêu nhanh 80W),5850000.0,5200.0,8.0,128.0,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),6.7,OLED
+Điện thoại OnePlus Nord CE 3 Lite 5G (Chính hãng - Snapdragon 695 5G),5950000.0,5000.0,8.0,256.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.72,IPS LCD
+Điện thoại Unihertz Luna (Nothing giá Rẻ - Camera 108MP),5950000.0,5000.0,8.0,256.0,MediaTek MT6789 Helio G99 (6nm),6.81,IPS LCD
+Điện thoại Vivo V40 Lite Chính hãng,5950000.0,5000.0,8.0,256.0,Qualcomm SM6225 Snapdragon 685 (6 nm),6.67,AMOLED
+"Điện thoại OnePlus Ace (Dimensity 8100-Max, sạc 150W)",5950000.0,4500.0,8.0,128.0,MediaTek Dimensity 8100-Max (5 nm),6.7,OLED
+Điện thoại Realme 12 Plus 5G (Dimensity 7050),5950000.0,5000.0,8.0,128.0,Mediatek Dimensity 7050 (6 nm),6.67,AMOLED
+Điện thoại Vivo T3 5G (Dimensity 7200),5990000.0,5000.0,8.0,128.0,MediaTek Dimensity 7200 (4 nm),6.67,AMOLED
+Điện thoại OPPO A2 Pro 5G (Dimensity 7050),5990000.0,5000.0,8.0,256.0,Mediatek MT6877V Dimensity 7050 (6 nm),6.7,AMOLED
+Điện thoại Xiaomi Redmi Note 14 Pro Plus cũ (Đẹp 99% - Nguyên zin 100%),6000000.0,6200.0,12.0,256.0,Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm),6.67,AMOLED
+"Điện thoại Bkav Bphone A85 5G (Dimensity 810 5G, màn AMOLED 90Hz)",6050000.0,4200.0,8.0,128.0,MediaTek Dimensity 810 5G (6 nm),6.6,AMOLED
+Điện thoại Vivo iQOO Z8 5G (Dimensity 8200),6150000.0,5000.0,8.0,256.0,MediaTek Dimensity 8200 (4 nm),6.64,IPS LCD
+Điện thoại BLU Bold N3 5G (Dimensity 7050),6150000.0,4700.0,8.0,256.0,Mediatek MT6877V Dimensity 7050 (6 nm),6.78,AMOLED
+Điện thoại Xiaomi Redmi K60 Pro cũ - 99.9% (Màn AMOLED 2K),6200000.0,5000.0,8.0,128.0,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.67,OLED
+Điện thoại Google Pixel 6a (Google Tensor),6250000.0,4410.0,6.0,128.0,Google Tensor (5 nm),6.1,OLED
+Điện thoại Xiaomi Redmi Note 11 Pro (Chính hãng DGW),6250000.0,5000.0,6.0,64.0,Mediatek Helio G96 (12 nm),6.67,AMOLED
+Điện thoại Vivo Y300 Pro 5G (Pin 6500mAh),6250000.0,6500.0,8.0,128.0,Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),6.77,AMOLED
+Điện thoại Vivo Y37 Pro 5G (Pin 6000 mAh),6250000.0,6000.0,8.0,256.0,Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm),6.68,IPS LCD
+Điện thoại Xiaomi Redmi K60 Ultra cũ (99.9%),6300000.0,5000.0,12.0,256.0,Mediatek Dimensity 9200+ (4 nm),6.67,OLED
+Điện thoại OPPO K11 5G (Snapdragon 782G),6330000.0,5000.0,8.0,256.0,Qualcomm Snapdragon 782G (6 nm),6.7,AMOLED
+Điện thoại OPPO K12 5G (Thiết kế siêu bền),6350000.0,5500.0,8.0,256.0,Qualcomm Snapdragon 7 Gen 3 (4 nm),6.7,AMOLED
+Điện thoại Xiaomi Redmi K60 5G (Snapdragon 8+ Gen 1 - Màn 2K),6350000.0,5500.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.67,OLED
+Điện thoại Xiaomi Redmi Turbo 4 (Dimensity 8400),6350000.0,5500.0,8.0,256.0,Dimensity 8400,6.67,AMOLED
+Điện thoại Realme 9 Pro 5G Chính hãng (Snapdragon 695),6450000.0,5000.0,6.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.6,IPS LCD
+Điện thoại Xiaomi Redmi Note 11 Pro 5G (Chính hãng DGW),6450000.0,5000.0,6.0,64.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.67,AMOLED
+Điện thoại Vivo Y200 5G (Snapdragon 4 Gen 1 - Ấn Độ),6450000.0,4800.0,8.0,128.0,Qualcomm SM4375 Snapdragon 4 Gen 1 (6 nm),6.67,AMOLED
+"Điện thoại OnePlus Ace 2 Cũ 5G (99,9% - Chip Snapdragon 8+ Gen 1)",6550000.0,5000.0,12.0,256.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.74,AMOLED
+Điện thoại OPPO A1 Pro,6450000.0,4800.0,8.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.7,OLED
+Điện thoại Honor X9a 5G (Chính hãng DGW),6450000.0,5100.0,6.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.67,AMOLED
+Điện thoại Tecno CAMON 20 Premier 5G Chính hãng (Dimensity 8050),6490000.0,5000.0,8.0,512.0,Mediatek Dimensity 8050 (6 nm),6.67,AMOLED
+Điện thoại OPPO A78 4G (Snapdragon 680) Chính hãng,6500000.0,5000.0,8.0,128.0,Snapdragon 680 4G (6 nm),6.43,AMOLED
+Điện thoại Xiaomi POCO X6 5G (Snapdragon 7S Gen 2),6550000.0,5100.0,6.0,256.0,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),6.67,AMOLED
+Điện thoại Xiaomi Redmi K70 cũ (Đẹp 99%),6550000.0,5000.0,12.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.67,OLED
+Điện thoại OnePlus Nord CE 4 Lite 5G (Màn AMOLED - Sạc 80W),6590000.0,5500.0,8.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.67,AMOLED
+Điện thoại Vivo Y78 (t1) 5G (Dimensity 6020),6688000.0,5000.0,12.0,256.0,Mediatek Dimensity 6020 (7 nm),6.64,IPS LCD
+"Điện thoại Vivo Y78m (t1) 5G (Pin 5000mAh, sạc 44W)",6688000.0,5000.0,12.0,256.0,Mediatek Dimensity 6020 (7 nm),6.64,IPS LCD
+"Điện thoại Vivo V27e (Helio G99, Sạc 66W)",6750000.0,4600.0,8.0,128.0,Mediatek MT8781 Helio G99 (6nm),6.62,AMOLED
+Điện thoại Xiaomi Redmi Note 13R Pro 5G (Màn OLED 1 tỷ màu),6780000.0,5000.0,12.0,256.0,Mediatek Dimensity 6080 (6 nm),6.67,OLED
+Điện thoại Realme 13 Plus 5G Global (Dimensity 7300 Energy),6850000.0,5000.0,8.0,128.0,MediaTek Dimensity 7300 Energy (4 nm),6.67,AMOLED
+Điện thoại Realme Narzo 60 Pro 5G Chính hãng (Dimensity 7050),6880000.0,5000.0,8.0,128.0,Mediatek MT6877V Dimensity 7050 (6 nm),6.7,AMOLED
+Điện thoại Vivo Y100 Chính hãng (Snapdragon 685),6950000.0,5000.0,8.0,128.0,Qualcomm SM6225 Snapdragon 685 (6 nm),6.67,AMOLED
+"Điện thoại OPPO A3 Pro 5G (Kháng nước, bụi IP69)",6950000.0,5000.0,8.0,256.0,Mediatek Dimensity 7050 (6 nm),6.7,AMOLED
+Điện thoại Realme 13 Pro Plus 5G (Sạc nhanh 80W - IP65),6950000.0,5200.0,8.0,256.0,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),6.7,AMOLED
+Điện thoại Vivo S17e 5G (Dimensity 7200),6950000.0,4600.0,8.0,128.0,Mediatek Dimensity 7200 (4 nm),6.78,AMOLED
+Điện thoại OnePlus Nord N30 5G (Snapdragon 695 5G),6950000.0,5000.0,8.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.72,IPS LCD
+Điện thoại Realme GT Neo 7 SE 5G,6950000.0,6000.0,8.0,256.0,Snapdragon 7+ Gen 4 (4 nm),6.78,AMOLED
+Điện thoại Xiaomi Redmi Turbo 4 Pro 5G (Snapdragon 8s Gen 4),6950000.0,6000.0,12.0,256.0,Snapdragon 8s Gen 4,6.67,AMOLED
+Điện thoại Xiaomi Redmi Note 13 Pro 4G Chính hãng (Helio G99 Ultra),6950000.0,5000.0,8.0,128.0,Mediatek Helio G99 Ultra,6.67,AMOLED
+"Điện thoại OPPO Reno8 T (Snapdragon 695 5G, camera 108MP)",6950000.0,4800.0,8.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.7,OLED
+"Điện thoại Infinix Zero 30 5G (Dimensity 8020, Màn AMOLED 144Hz)",6990000.0,5000.0,8.0,256.0,Mediatek Dimensity 8020 (6 nm),6.78,AMOLED
+Điện thoại Vivo V40 Lite 5G (IDN) - Tích hợp AI,6990000.0,5000.0,8.0,256.0,Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm),6.67,AMOLED
+Điện thoại Xiaomi POCO X7 Pro (Snapdragon 7s Gen 3),6990000.0,6200.0,8.0,256.0,Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm),6.67,AMOLED
+"Điện thoại Samsung Galaxy C55 5G (Camera selfie 50MP, sạc 45W)",7050000.0,5000.0,8.0,256.0,Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm),6.7,AMOLED
+Điện thoại Vivo iQOO Z7 Pro 5G (Dimensity 7200),7050000.0,4600.0,8.0,128.0,Mediatek Dimensity 7200 (4 nm),6.78,AMOLED
+Điện thoại Vivo T2 Pro 5G (Dimensity 7200),7050000.0,4600.0,8.0,128.0,Mediatek Dimensity 7200 (4 nm),6.78,AMOLED
+Điện thoại OPPO Reno8 5G (Chính hãng - Dimensity 1300),7080000.0,4500.0,8.0,128.0,Mediatek Dimensity 1300 (6 nm),6.4,AMOLED
+Điện thoại Realme 11 Pro Plus 5G (Dimensity 7050),7150000.0,5000.0,8.0,256.0,Mediatek Dimensity 7050,6.7,AMOLED
+Điện thoại Vivo Y78m 5G (Chip Dimensity 7020),7150000.0,5000.0,12.0,256.0,MediaTek Dimensity 7020 (6 nm),6.64,IPS LCD
+Điện thoại Nothing Phone (2a) (Dimensity 7200 Pro),7150000.0,5000.0,8.0,128.0,MediaTek Dimensity 7200 Pro (4 nm),6.7,AMOLED
+Điện thoại Infinix Note 30 VIP 5G (Dimensity 8050),7250000.0,5000.0,8.0,256.0,Mediatek Dimensity 8050 (6 nm),6.67,AMOLED
+"Điện thoại Google Pixel 6 Pro 5G (Màn hình 2K,  Pin 5003mAh)",7250000.0,5003.0,12.0,128.0,Google Tensor (5 nm),6.7,AMOLED
+Điện thoại Vivo iQOO Neo 9 cũ (Nguyên zin 100% - Đẹp 99%),7250000.0,5160.0,12.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.78,AMOLED
+Điện thoại Vivo S18e 5G (Dimensity 7200),7250000.0,4800.0,12.0,256.0,Mediatek Dimensity 7200 (4 nm),6.67,AMOLED
+Điện thoại Xiaomi 13 cũ,7300000.0,4500.0,8.0,128.0,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.36,AMOLED
+Điện thoại Vivo T2 (Russia) 4G (Helio G99),7320000.0,4600.0,8.0,256.0,Mediatek MT8781 Helio G99 (6nm),6.62,AMOLED
+Điện thoại Xiaomi POCO X4 GT (Chính hãng),7350000.0,5080.0,8.0,256.0,MediaTek Dimensity 8100 (5 nm),6.6,IPS LCD
+Điện thoại Realme 13 Pro Extreme Edition (Snapdragon 7s Gen 2),7350000.0,5200.0,8.0,128.0,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),6.7,AMOLED
+Điện thoại Vivo T3 Pro 5G Global (Snapdragon 7 Gen 3),7350000.0,5500.0,8.0,128.0,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),6.77,AMOLED
+Điện thoại Vivo iQOO Z9s Pro 5G (Quốc tế - Snapdragon 7 Gen 3),7450000.0,5500.0,8.0,128.0,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),6.77,AMOLED
+Điện thoại Xiaomi POCO F5 5G (Snapdragon 7+ Gen 2),7450000.0,5000.0,8.0,256.0,Qualcomm SM7475-AB Snapdragon 7+ Gen 2 (4 nm),6.67,AMOLED
+Điện thoại Realme GT Neo 7 5G (Snapdragon 8 Gen 3),7450000.0,6000.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Tecno Phantom X2 5G (Dimensity 9000 - Pin 5160mAh),7450000.0,5160.0,4.0,64.0,MediaTek Dimensity 9000 (4 nm),6.6,AMOLED
+"Điện thoại OnePlus Nord CE 2 (Dimensity 900, Màn AMOLED 90Hz)",7450000.0,4500.0,6.0,128.0,MediaTek MT6877 Dimensity 900 (6 nm),6.43,AMOLED
+Điện thoại Xiaomi Redmi K60 Ultra 5G (Dimensity 9200+),7550000.0,5000.0,12.0,256.0,Mediatek Dimensity 9200+ (4 nm),6.67,OLED
+Điện thoại OPPO Reno6 Z,7550000.0,4310.0,8.0,128.0,MediaTek MT6853 Dimensity 800U 5G,6.4,AMOLED
+Điện thoại Honor X8b Chính hãng (Bộ nhớ 512GB),7650000.0,4500.0,8.0,512.0,Qualcomm SM6225 Snapdragon 680 4G (6 nm),6.7,AMOLED
+Điện thoại Infinix Note 30 VIP Racing Edition (Gaming Phone giá rẻ),7650000.0,5000.0,12.0,256.0,Mediatek Dimensity 8050 (6 nm),6.67,AMOLED
+Điện thoại Xiaomi Mi 11 Ultra cũ (Đẹp 99% - Giá rẻ),7650000.0,5000.0,8.0,256.0,Qualcomm SM8350 Snapdragon 888 5G (5 nm),6.81,AMOLED
+Điện thoại OnePlus Nord CE 4 5G (Snapdragon 7 Gen 3),7750000.0,5500.0,8.0,128.0,Snapdragon 7 Gen 3 (4 nm),6.7,AMOLED
+Điện thoại OnePlus Nord CE 3 5G (Snapdragon 782G),7750000.0,5000.0,8.0,128.0,Qualcomm Snapdragon 782G (6 nm),6.7,AMOLED
+Điện thoại Xiaomi Redmi Note 13 Pro Plus AAPE Trend Limited Edition,7850000.0,5000.0,12.0,512.0,MediaTek Dimensity 7200 Ultra (4 nm),6.67,OLED
+Điện thoại Vivo V29e 5G (Snapdragon 695 5G),7880000.0,5000.0,8.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.78,AMOLED
+Điện thoại Infinix GT 20 Pro 5G (Dimensity 8200 Ultimate),7950000.0,5000.0,8.0,256.0,MediaTek Dimensity 8200 Ultimate (4 nm),6.78,AMOLED
+Điện thoại Vivo iQOO Neo 5SE (Snapdragon 870),7950000.0,4500.0,8.0,128.0,Qualcomm SM8250-AC Snapdragon 870 5G - (7 nm),6.67,IPS LCD
+Điện thoại Realme 11 4G Chính hãng (Helio G99),7950000.0,5000.0,8.0,256.0,Mediatek MT8781 Helio G99 (6nm),6.4,AMOLED
+Điện thoại Vivo S18 5G (Snapdragon 7 Gen 3),7950000.0,5000.0,8.0,256.0,Qualcomm Snapdragon 7 Gen 3 (4 nm),6.78,AMOLED
+"Điện thoại Sony Xperia 5 III (5 Mark 3) 5G (Snapdragon 888, 99.9%)",7950000.0,4500.0,8.0,128.0,Qualcomm SM8350 Snapdragon 888 5G (5 nm),6.1,OLED
+Điện thoại Xiaomi POCO X6 Pro 5G (Dimensity 8300 Ultra),7990000.0,5000.0,8.0,256.0,MediaTek Dimensity 8300 Ultra (4 nm),6.67,AMOLED
+Điện thoại Xiaomi CIVI 3 5G (Dimensity 8200 Ultra),8250000.0,4500.0,12.0,256.0,Mediatek Dimensity 8200 Ultra (4 nm),6.55,AMOLED
+Điện thoại Vivo S17 5G (Snapdragon 778G+),8250000.0,4600.0,8.0,2.0,Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),6.78,AMOLED
+Điện thoại Xiaomi Redmi Note 12 Discovery Edition,8290000.0,4300.0,8.0,256.0,Dimensity 1080 (6nm),6.67,OLED
+Điện thoại OPPO Reno12 F 5G Chính hãng (Dimensity 6300),8350000.0,5000.0,12.0,256.0,MediaTek Dimensity 6300 (6 nm),6.67,AMOLED
+Điện thoại Xiaomi POCO F7 5G,8350000.0,5000.0,8.0,256.0,Snapdragon 8s Gen 4,6.67,AMOLED
+Điện thoại Xiaomi 12S Ultra cũ (Đẹp 99% - Nguyên bản 100%),8400000.0,4860.0,8.0,256.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.73,AMOLED
+Điện thoại Xiaomi 13T Cũ DGW 99% (Dimensity 8200 Ultra),8450000.0,5000.0,8.0,256.0,MediaTek Dimensity 8200 Ultra (4 nm),6.67,AMOLED
+Điện thoại Nothing Phone (2a) Plus (Dimensity 7350 Pro),8450000.0,5000.0,8.0,256.0,MediaTek Dimensity 7350 Pro (4 nm),6.7,AMOLED
+Điện thoại Honor 80 SE (Dimensity 900),8450000.0,4600.0,8.0,256.0,MediaTek MT6877 Dimensity 900 (6 nm),6.67,OLED
+Điện thoại Vivo V29e 5G Chính hãng DGW,8450000.0,4800.0,8.0,256.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.67,AMOLED
+Điện thoại Vivo S20 5G (Pin 6500mAh),8450000.0,6500.0,8.0,8.0,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),6.67,AMOLED
+Điện thoại Vivo V30e 5G Chính hãng (Snapdragon 6 Gen 1),8550000.0,5500.0,8.0,128.0,Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),6.78,AMOLED
+Điện thoại Vivo V40e 5G (Dimensity 7300),8550000.0,5500.0,8.0,128.0,MediaTek Dimensity 7300 (4 nm),6.77,AMOLED
+Điện thoại OPPO Reno11 5G (Dimensity 8200),8550000.0,4800.0,8.0,256.0,MediaTek MT6896 Dimensity 8200 (4 nm),6.7,OLED
+Điện thoại Tecno Phantom X2 Pro 5G (Dimensity 9000),8550000.0,5160.0,4.0,64.0,MediaTek Dimensity 9000 (4 nm),6.8,AMOLED
+Điện thoại Xiaomi Redmi K70 Pro cũ (Đẹp 99%),8600000.0,5000.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.67,OLED
+"Điện thoại Xiaomi 13 Pro cũ (99,9% - Snapdragon 8 Gen 2)",8700000.0,4820.0,8.0,128.0,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.73,AMOLED
+Điện thoại Vivo S19 5G (Snapdragon 7 Gen 3 - Pin 6000mAh),8850000.0,6000.0,8.0,8.0,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại OPPO Reno11 F 5G (Dimensity 7050),8950000.0,5000.0,8.0,256.0,Mediatek Dimensity 7050 (6 nm),6.7,AMOLED
+Điện thoại Xiaomi Redmi K60 Pro 5G (Snapdragon 8 Gen 2 - Màn OLED 2K),8950000.0,5000.0,8.0,128.0,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.67,OLED
+Điện thoại Realme 12 Pro Plus 5G (Snapdragon 7s Gen 2),8950000.0,5000.0,8.0,128.0,Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm),6.7,AMOLED
+Điện thoại OnePlus Ace 3 5G (Snapdragon 8 Gen 2),8990000.0,5500.0,12.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.78,AMOLED
+Điện thoại OnePlus 13R (Snapdragon 8 Gen 3 - Pin 6500mAh),8990000.0,6500.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.78,OLED
+Điện thoại Motorola Edge 50 Pro 5G (Snapdragon 7 Gen 3),9050000.0,4500.0,8.0,128.0,Qualcomm Snapdragon 7 Gen 3 (4 nm),6.7,OLED
+Điện thoại Meizu 21 Note 5G,9150000.0,5500.0,16.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.78,OLED
+Điện thoại OPPO Reno9 (Snapdragon 778G),9250000.0,4500.0,8.0,256.0,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),6.7,AMOLED
+Điện thoại Xiaomi Redmi Turbo 3 Harry Potter Edition,9350000.0,5000.0,16.0,512.0,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),6.67,AMOLED
+Điện thoại Vivo V29 Lite 5G (Snapdragon 695 5G),9350000.0,5000.0,8.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.78,AMOLED
+"Điện thoại Vivo V27 (Dimensity 7200, camera 50MP OIS)",9350000.0,4600.0,8.0,128.0,Mediatek Dimensity 7200 (4 nm),6.78,AMOLED
+Điện thoại Vivo iQOO Neo 5S,9450000.0,4500.0,8.0,128.0,Qualcomm Snapdragon 888 5G (5 nm),6.62,AMOLED
+Điện thoại OPPO Reno7 5G (Chính hãng),9450000.0,4500.0,8.0,256.0,MediaTek MT6877 Dimensity 900 5G (6 nm),6.43,AMOLED
+Điện thoại Vivo T3 Ultra 5G (Dimensity 9200 Plus),9450000.0,5500.0,8.0,128.0,Mediatek Dimensity 9200 Plus (4 nm),6.78,AMOLED
+Điện thoại Realme GT 6T 5G (Snapdragon 7+ Gen 3 - Sạc 120W),9550000.0,5500.0,8.0,128.0,Qualcomm SM7675 Snapdragon 7+ Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Honor 80 (Snapdragon 782G),9550000.0,4800.0,8.0,256.0,Qualcomm Snapdragon 782G (6 nm),6.67,OLED
+Điện thoại OPPO Reno12 AI 5G (Dimensity 8250),9690000.0,5000.0,12.0,256.0,MediaTek Dimensity 8250 (4 nm),6.7,AMOLED
+Điện thoại Xiaomi POCO F6 5G Chính hãng (Snapdragon 8s gen 3),9690000.0,5000.0,8.0,256.0,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),6.67,AMOLED
+Điện thoại OPPO Reno6 5G (Chính hãng),9750000.0,4300.0,8.0,128.0,MediaTek MT6877 Dimensity 900 5G (6 nm),6.43,AMOLED
+"Điện thoại OnePlus Ace 2 Pro 5G (Snapdragon 8 Gen 2, RAM 24GB)",9850000.0,5000.0,12.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.74,AMOLED
+Điện thoại Vivo iQOO Neo 7 Pro 5G (Sạc 120W - Snapdragon 8+ Gen 1),9850000.0,5000.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.78,AMOLED
+Điện thoại Samsung Galaxy M55 5G (Cam Selfie 50MP),9950000.0,5000.0,8.0,128.0,Snapdragon 7 Gen 1,6.7,AMOLED
+Điện thoại OnePlus Nord 4 5G (Snapdragon 7+ Gen 3),9950000.0,5500.0,8.0,128.0,Qualcomm SM7675 Snapdragon 7+ Gen 3 (4 nm),6.74,AMOLED
+Điện thoại Vivo iQOO Neo 8 Pro 5G (Dimensity 9200+),9950000.0,5000.0,16.0,256.0,Mediatek Dimensity 9200+ (4 nm),6.78,AMOLED
+Điện thoại Vivo S17t 5G (Dimensity 8050),9950000.0,4600.0,12.0,512.0,Mediatek Dimensity 8050 (6 nm),6.78,AMOLED
+Điện thoại Realme GT Neo 5 Pro 5G (Snapdragon 8 Gen 2),9950000.0,5000.0,16.0,512.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.74,AMOLED
+"Điện thoại Ulefone Armor 24 (Pin 22.000mAh, độ bên chuẩn Quân đội Mỹ)",9950000.0,0.0,12.0,256.0,Mediatek Helio G96 (12 nm),6.78,IPS LCD
+Điện thoại Xiaomi POCO F7 Pro (Dimensity 8400 Ultra),9950000.0,6500.0,12.0,256.0,Mediatek Dimensity 8400 Ultra,6.67,AMOLED
+Điện thoại OPPO Reno13 5G (OPPO AI Phone),9950000.0,6500.0,8.0,256.0,MediaTek Dimensity 8300 Energy (4 nm),6.7,AMOLED
+Điện thoại Sony Xperia 10 VI (10 Mark 6) 5G (Snapdragon 6 Gen 1),10150000.0,5000.0,6.0,128.0,Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm),6.1,OLED
+Điện thoại Vivo S18 Pro 5G (Dimensity 9200 Plus),10150000.0,5000.0,12.0,256.0,Mediatek Dimensity 9200+ (4 nm),6.78,AMOLED
+Điện thoại Samsung Galaxy A35 Chính hãng (5G - Chuẩn IP67),10250000.0,5000.0,6.0,128.0,Exynos 1380 (5 nm),6.6,AMOLED
+Điện thoại Vivo S17 Pro 5G (Dimensity 8200),10250000.0,4600.0,8.0,256.0,MediaTek Dimensity 8200 (4 nm),6.78,AMOLED
+Điện thoại Meizu 20 5G (Snapdragon 8 Gen 2),10250000.0,4700.0,12.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.55,OLED
+Điện thoại Xiaomi CIVI 4 Pro 5G (Snapdragon 8s Gen 3),10450000.0,4700.0,12.0,256.0,Qualcomm Snapdragon 8s Gen 3 (4 nm),6.55,AMOLED
+"Điện thoại Motorola Edge 40 Neo 5G (Dimensity 7030, màn P-OLED 144Hz)",10350000.0,5000.0,12.0,256.0,MediaTek Dimensity 7030 (6 nm),6.55,OLED
+Điện thoại Lenovo Legion Y90,10450000.0,5600.0,12.0,640.0,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),6.92,AMOLED
+Điện thoại Vivo iQOO 11 5G (Snapdragon 8 Gen 2 - Sạc 120W),10450000.0,5000.0,8.0,128.0,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.78,AMOLED
+Điện thoại Meizu 20 Classic 5G (RAM 16GB),10450000.0,4700.0,16.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.55,OLED
+Điện thoại Vivo V40 5G (Snapdragon 7 Gen 3),10490000.0,5500.0,8.0,128.0,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại ZTE Nubia Z60S Pro 5G (Snapdragon 8 Gen 2),10500000.0,5100.0,8.0,256.0,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm) - Ép xung,6.8,AMOLED
+Điện thoại MoonDrop MIAD 01 5G (Dimensity 7050),10500000.0,5000.0,12.0,256.0,MediaTek Dimensity 7050 (6 nm),6.7,AMOLED
+Điện thoại Xiaomi 14 Cũ (99% giá siêu rẻ),10500000.0,4610.0,8.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.36,OLED
+"Điện thoại Google Pixel 7a (Tensor G2, màn OLED)",10550000.0,4385.0,8.0,128.0,Google Tensor G2 (5 nm),6.1,OLED
+Điện thoại Xiaomi POCO F5 Pro 5G (Snapdragon 8+ Gen 1),10850000.0,5160.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.67,AMOLED
+Điện thoại Vivo V30 5G Chính hãng (Snapdragon 7 Gen 3),10950000.0,5000.0,12.0,512.0,Qualcomm Snapdragon 7 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Xiaomi CIVI 2S (Snapdragon 8+ Gen 1),10950000.0,5000.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.55,OLED
+Điện thoại Honor 80 Pro Plus,11050000.0,5000.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.78,OLED
+Điện thoại OnePlus 11R (Snapdragon 8+ Gen 1),11050000.0,5000.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.74,AMOLED
+Điện thoại Sony Xperia 10 V (10 Mark 5) 5G (Snapdragon 695),11250000.0,5000.0,6.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.1,OLED
+Điện thoại OnePlus Ace 3 Pro 5G (Snapdragon 8 Gen 3),11450000.0,6100.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Vivo S20 Pro 5G (Dimensity 9300 Plus),11450000.0,6000.0,8.0,256.0,MediaTek Dimensity 9300 Plus (4 nm),6.67,AMOLED
+Điện thoại Realme GT5 Pro 5G (Snapdragon 8 Gen 3),11550000.0,5400.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Asus ROG Phone 6 Pro,11550000.0,6000.0,18.0,512.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.78,AMOLED
+Điện thoại OPPO Reno10 Pro 5G (Dimensity 8200),11550000.0,4600.0,16.0,256.0,Mediatek Dimensity 8200 (4 nm),6.74,OLED
+Điện thoại OnePlus Nord 3 5G (Chính hãng - Dimensity 9000),11590000.0,5000.0,8.0,128.0,Mediatek Dimensity 9000 (4 nm),6.74,AMOLED
+Điện thoại Vivo S19 Pro 5G (Dimensity 9200 Plus - Pin 5500mAh),11650000.0,5500.0,8.0,256.0,Mediatek Dimensity 9200+ (4 nm),6.78,AMOLED
+Điện thoại Meizu 21 5G (Snapdragon 8 Gen 3),11750000.0,4800.0,8.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.55,AMOLED
+"Điện thoại Vivo V29 Pro 5G (Dimensity 8200, Camera selfie 50MP)",11750000.0,4600.0,8.0,256.0,Mediatek Dimensity 8200 (4 nm),6.78,AMOLED
+Điện thoại OPPO Reno11 Pro 5G (Snapdragon 8+ Gen 1),11890000.0,4700.0,12.0,256.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.74,OLED
+Điện thoại OnePlus Ace 3 Genshin Impact AI (Snapdragon 8 Gen 2),11950000.0,5500.0,16.0,512.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.78,AMOLED
+Điện thoại Google Pixel 7,11950000.0,4355.0,8.0,128.0,Google Tensor G2 (5 nm),6.3,AMOLED
+Điện thoại Samsung Galaxy M35 5G (Pin 6000 mAh),11990000.0,6000.0,8.0,256.0,Exynos 1380 (5 nm),6.6,AMOLED
+Điện thoại OPPO Reno12 Pro China AI 5G (Dimensity 9200 Plus),12250000.0,5000.0,12.0,256.0,Mediatek Dimensity 9200+ (4 nm),6.7,AMOLED
+Điện thoại Motorola Edge (2023) (Màn P-OLED 144Hz),12250000.0,4400.0,8.0,256.0,Mediatek Dimensity 7030 (6 nm),6.6,OLED
+Điện thoại Honor 80 Pro,12350000.0,4500.0,8.0,256.0,MediaTek Dimensity 8000,6.78,OLED
+"Điện thoại OnePlus 9RT 5G (Snapdragon 888, sạc 65W)",12450000.0,4500.0,8.0,128.0,Qualcomm SM8350 Snapdragon 888 5G (5 nm),6.62,AMOLED
+Điện thoại OnePlus 12R 5G (Snapdragon 8 Gen 2),12450000.0,5500.0,8.0,128.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.78,AMOLED
+Điện thoại Vivo iQOO 11S 5G (Snapdragon 8 Gen 2),12450000.0,4700.0,12.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.78,AMOLED
+Điện thoại Motorola Moto X40 5G (Snapdragon 8 Gen 2 - Siêu rẻ),12450000.0,4600.0,8.0,3.0,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.7,OLED
+Điện thoại Vivo V29 5G (Snapdragon 778G+),12550000.0,4600.0,8.0,256.0,Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),6.78,AMOLED
+Điện thoại Google Pixel 8a 5G (Tensor G3),12690000.0,4492.0,8.0,128.0,Google Tensor G3 (4 nm),6.1,OLED
+Điện thoại Xiaomi POCO F6 Pro 5G Chính hãng (Snapdragon 8 Gen 2),12750000.0,5000.0,12.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.67,AMOLED
+Điện thoại OPPO Reno9 Pro (Dimensity 8100-Max),12750000.0,4500.0,16.0,256.0,MediaTek Dimensity 8100-Max (5 nm),6.7,AMOLED
+"Điện thoại Samsung Galaxy A55 Chính hãng (5G - Khung Nhôm, IP67)",12950000.0,5000.0,8.0,128.0,Exynos 1480 (4 nm),6.6,AMOLED
+Điện thoại Vivo iQOO 12 5G (Snapdragon 8 Gen 3 - màn 144Hz),12950000.0,5000.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Realme GT7 Pro 5G (Snapdragon 8 Elite),12950000.0,6500.0,12.0,256.0,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),6.78,OLED
+Điện thoại OPPO Reno10 Pro Plus 5G (Snapdragon 8+ Gen 1),12950000.0,4700.0,16.0,256.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.74,OLED
+Điện thoại Xiaomi 13 Pro,12950000.0,4820.0,8.0,128.0,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.73,AMOLED
+Điện thoại ZTE Nubia Z60 Ultra Leading Version AI,12950000.0,6000.0,8.0,256.0,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - Leading Vision,6.8,AMOLED
+Điện thoại Honor 200 5G Chính hãng (Snapdragon 7 Gen 3),12950000.0,5200.0,12.0,256.0,Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm),6.7,AMOLED
+"Điện thoại Vivo X90 5G (Dimensity 9200, sạc 120W)",12950000.0,4810.0,8.0,128.0,MediaTek Dimensity 9200 (4 nm),6.78,AMOLED
+Điện thoại Xiaomi POCO F7 Ultra (Snapdragon 8 Gen 3),12950000.0,6500.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.67,AMOLED
+Điện thoại ZTE Nubia Z70 Ultra (Snapdragon 8 Elite),12950000.0,6000.0,8.0,256.0,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),6.8,AMOLED
+Điện thoại OPPO Find X8 Mini (Dimensity 9400),12990000.0,5500.0,12.0,256.0,MediaTek Dimensity 9400 (3 nm),6.31,AMOLED
+Điện thoại Vivo X90s 5G (Dimensity 9200 Plus),13050000.0,4810.0,8.0,256.0,Mediatek Dimensity 9200+ (4 nm),6.78,AMOLED
+Điện thoại Motorola Razr 40 5G (Snapdragon 7 Gen 1),13250000.0,4200.0,8.0,128.0,Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm),6.9,AMOLED
+"Điện thoại Xiaomi Black Shark 6 (Snapdragon 8 Gen 2, màn 2K)",13450000.0,5000.0,12.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.67,OLED
+Điện thoại Vivo X100 5G (Dimensity 9300),13550000.0,5000.0,12.0,256.0,Mediatek Dimensity 9300 (4 nm),6.78,AMOLED
+Điện thoại Xiaomi 14 CIVI 5G (Snapdragon 8s Gen 3),13550000.0,4700.0,8.0,256.0,Qualcomm Snapdragon 8s Gen 3 (4 nm),6.55,AMOLED
+Điện thoại Meizu 20 Pro 5G (Snapdragon 8 Gen 2 - Sạc không dây 50W),13650000.0,0.0,12.0,128.0,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.81,OLED
+Điện thoại Nubia Red Magic 9 Pro 5G (Snapdragon 8 Gen 3),13950000.0,6500.0,8.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.8,AMOLED
+Điện thoại Xiaomi 14 Pro Cũ (99% - Màn hình cong 4 phía),13950000.0,4880.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.73,AMOLED
+Điện thoại OPPO Reno13 Pro 5G (Dimensity 8350),13950000.0,6500.0,12.0,256.0,MediaTek Dimensity 8350,6.78,AMOLED
+Điện thoại OPPO Find X7 5G (Dimensity 9300),13990000.0,5000.0,12.0,256.0,MediaTek Dimensity 9300,6.78,AMOLED
+Điện thoại Vivo X100s 5G (Dimensity 9300 Plus),14150000.0,5100.0,12.0,256.0,MediaTek Dimensity 9300+ (4 nm),6.78,AMOLED
+Điện thoại Nothing Phone (2) (Snapdragon 8+ Gen 1),14190000.0,4700.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.7,OLED
+Điện thoại OPPO Reno9 Pro Plus (Snap 8+ Gen 1),14550000.0,4700.0,16.0,256.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.7,AMOLED
+Điện thoại ZTE Nubia Z60 Ultra Photographer Edition (Điện thoại AI),14790000.0,6000.0,16.0,512.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.8,AMOLED
+Điện thoại ZTE Nubia Z60 Ultra 5G (Snapdragon 8 Gen 3),14850000.0,6000.0,8.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.8,AMOLED
+Điện thoại OnePlus 12 (Màn hình sáng 4500nit - RAM 24GB),14950000.0,5400.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.82,AMOLED
+Điện thoại Xiaomi 12S Ultra,14950000.0,4860.0,8.0,256.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.73,AMOLED
+Điện thoại Vivo V40 Pro 5G (Dimensity 9200 Plus),14990000.0,5500.0,8.0,256.0,MediaTek Dimensity 9200+ (4 nm),6.78,AMOLED
+Điện thoại OPPO Find X8 (Dimensity 9400 - OPPO AI),14990000.0,5630.0,12.0,256.0,MediaTek Dimensity 9400 (3 nm),6.59,AMOLED
+"Điện thoại Realme GT3 Chính hãng (Snapdragon 8+ Gen 1, sạc 240W)",15450000.0,4600.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.74,AMOLED
+Điện thoại Tecno Phantom V Flip 5G (Dimensity 8050),15450000.0,4000.0,8.0,256.0,Mediatek Dimensity 8050 (6 nm),6.9,AMOLED
+Điện thoại Asus ROG Phone 8 5G (Snapdragon 8 Gen 3),15450000.0,5500.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Asus ROG Phone 9 (Snapdragon 8 Elite),15450000.0,5500.0,12.0,256.0,Snapdragon 8 Elite,6.78,AMOLED
+Điện thoại OPPO Find X6 (Dimensity 9200),15750000.0,4800.0,12.0,256.0,Mediatek Dimensity 9200 (4 nm),6.74,AMOLED
+Điện thoại Vivo X200 5G (Dimensity 9400),15950000.0,5800.0,12.0,256.0,MediaTek Dimensity 9400 (3 nm),6.67,AMOLED
+"Điện thoại OnePlus 10T 5G Chính hãng (Snapdragon 8+ Gen 1, sạc 150W)",15950000.0,4800.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.7,AMOLED
+Điện thoại Asus ROG Phone 9 Pro (Snapdragon 8 Elite),15950000.0,6500.0,12.0,256.0,Snapdragon 8 Elite,6.78,AMOLED
+Điện thoại OnePlus 13 5G (Snapdragon 8 Elite),15990000.0,6000.0,12.0,256.0,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),6.82,AMOLED
+Điện thoại Xiaomi 13T Pro Chính hãng (Dimensity 9200 Plus),15990000.0,5000.0,12.0,256.0,Mediatek Dimensity 9200+ (4 nm),6.67,AMOLED
+Điện thoại Sony Xperia 1 III (1 Mark 3) 5G (Snapdragon 888),16150000.0,4500.0,12.0,256.0,Qualcomm SM8350 Snapdragon 888 5G (5 nm),6.5,OLED
+"Điện thoại Xiaomi Mix 4 (Snapdragon 888+, Sạc 120W)",16450000.0,4500.0,8.0,128.0,Qualcomm SM8350 Snapdragon 888+ 5G (5 nm),6.67,AMOLED
+Điện thoại Vivo X200 Pro Mini (Dimensity 9400),16550000.0,5700.0,12.0,256.0,MediaTek Dimensity 9400 (3 nm),6.31,AMOLED
+Điện thoại Vivo iQOO 12 Pro 5G (Snapdragon 8 Gen 3),16850000.0,5100.0,16.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Motorola Edge Plus (2023) 5G - Màn OLED 165Hz,16860000.0,5100.0,8.0,512.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.67,OLED
+Điện thoại Samsung Galaxy S24 Chính hãng (Exynos 2400),16950000.0,4000.0,8.0,256.0,Exynos 2400 (4 nm),6.2,AMOLED
+Điện thoại Samsung Galaxy S24 FE 5G Chính hãng,16950000.0,4700.0,8.0,128.0,Exynos 2400e (4 nm),6.7,AMOLED
+Điện thoại Samsung Galaxy Z Flip FE (Điện thoại gập siêu rẻ),16950000.0,4000.0,8.0,256.0,Exynos 2400e (4 nm),6.7,AMOLED
+Điện thoại Google Pixel 8 5G (Chip Tensor G3),17050000.0,4575.0,8.0,128.0,Google Tensor G3 (4 nm),6.2,OLED
+Điện thoại ZTE Nubia Red Magic 9S Pro 5G (hỗ trợ AI),17050000.0,6500.0,12.0,256.0,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),6.8,AMOLED
+Điện thoại Meizu 21 Pro 5G (Flyme AI - Snapdragon 8 Gen 3),17150000.0,5050.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.79,AMOLED
+Điện thoại Vivo X100 Pro 5G (Dimensity 9300),17150000.0,5400.0,12.0,256.0,MediaTek Dimensity 9300 (4 nm),6.78,AMOLED
+Điện thoại Vivo iQOO 11 Pro 5G (Snapdragon 8 Gen 2 - Sạc 200W),17350000.0,4700.0,8.0,255.0,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.78,AMOLED
+"Điện thoại OnePlus 10 Pro (Snapdragon 8 Gen 1, Màn 2K+)",17450000.0,5000.0,8.0,128.0,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),6.7,AMOLED
+Điện thoại Vivo X90 Pro (Dimensity 9200),17450000.0,4870.0,8.0,256.0,MediaTek Dimensity 9200 (4 nm),6.78,AMOLED
+"Điện thoại iPhone 13 Chính hãng VN/A (128GB, 256GB, 512GB)",17450000.0,3240.0,4.0,128.0,Apple A15 Bionic (5 nm),6.1,OLED
+Điện thoại Vivo X100s Pro 5G (Dimensity 9300 Plus),17650000.0,5400.0,12.0,256.0,MediaTek Dimensity 9300+ (4 nm),6.78,AMOLED
+Điện thoại ZTE Nubia Red Magic 10 Pro (Snapdragon 8 Elite - Pin 6500mAh),17650000.0,6500.0,12.0,256.0,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),6.85,AMOLED
+Điện thoại Vivo iQOO 8 Pro (Snap 888+),17950000.0,4500.0,8.0,256.0,Qualcomm SM8350 Snapdragon 888+ 5G (5 nm),6.78,AMOLED
+Điện thoại Unihertz 8849 TANK 3 5G (Dimensity 8200),17950000.0,800.0,16.0,512.0,Mediatek MT6896 Dimensity 8200 (4 nm),6.79,IPS LCD
+Điện thoại Fairphone 5 5G (Màn hình OLED 1.5K),18350000.0,4200.0,8.0,256.0,Qualcomm QCM6490 (6 nm),6.46,OLED
+Điện thoại Nubia Red Magic 9 Pro Plus 5G (Snapdragon 8 Gen 3),18450000.0,5500.0,16.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.8,AMOLED
+Điện thoại Motorola Razr 40 Ultra (Snapdragon 8+ Gen 1),18850000.0,3800.0,8.0,2567.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.9,AMOLED
+Điện thoại Xiaomi 15 Pro 5G (Snapdragon 8 Elite),18950000.0,6100.0,12.0,256.0,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),6.73,AMOLED
+Điện thoại Vivo X200 Pro 5G (Dimensity 9400 - Pin 6000mAh),18950000.0,6000.0,12.0,256.0,MediaTek Dimensity 9400 (3 nm),6.78,AMOLED
+Điện thoại Samsung Galaxy S24 Plus Chính hãng (Exynos 2400),18950000.0,4900.0,12.0,256.0,Exynos 2400 (4 nm),6.7,AMOLED
+Điện thoại OPPO Find X8 Pro (OPPO AI - Kết nối vệ tinh),18950000.0,5910.0,12.0,256.0,MediaTek Dimensity 9400,6.78,AMOLED
+Điện thoại ZTE Nubia Red Magic 10 Ultra (Snapdragon 8 Elite),18950000.0,7000.0,12.0,256.0,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),7.0,AMOLED
+Điện thoại Google Pixel 7 Pro 5G (Màn 2K),18990000.0,5000.0,8.0,128.0,Google Tensor G2 (5 nm),6.7,AMOLED
+"Điện thoại Sony Xperia 5 IV (5 Mark 4) 5G (Snapdragon 8 Gen 1, pin 5000mAh)",18995000.0,5000.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8 Gen 1 (4 nm),6.1,OLED
+Điện thoại Vivo X Flip 5G (Snapdragon 8+ Gen 1),19750000.0,4400.0,12.0,256.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.74,AMOLED
+"Điện thoại Sony Xperia 1 IV (1 Mark 4) 5G (Snapdragon 8 Gen 1, màn 4K)",19950000.0,5000.0,12.0,256.0,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),6.5,OLED
+Điện thoại Asus ROG Phone 8 Ultimate 5G (Snapdragon 8 Gen 3),19950000.0,6000.0,24.0,1.0,Snapdragon 8 Gen 3,6.78,AMOLED
+Điện thoại OPPO Find X6 Pro (Snapdragon 8 Gen 2),19950000.0,5000.0,12.0,256.0,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),6.82,AMOLED
+"Điện thoại Motorola ThinkPhone 5G (Snapdragon 8+ Gen 1, sạc 68W)",19950000.0,5000.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.6,OLED
+Điện thoại Google Pixel 9 5G (Vân tay siêu âm),20050000.0,4700.0,12.0,128.0,Google Tensor G4 (4 nm),6.3,OLED
+Điện thoại ZTE Nubia Red Magic 9S Pro Plus 5G (AI - Snapdragon 8 Gen 3 ép xung),20250000.0,5500.0,16.0,512.0,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),6.8,AMOLED
+Điện thoại Asus Zenfone 10 5G (Snapdragon 8 Gen 2),20490000.0,4300.0,8.0,128.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),5.92,AMOLED
+Điện thoại Nubia Red Magic 8 Pro Plus Transformers Leader Edition,20950000.0,5000.0,12.0,512.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.8,AMOLED
+Điện thoại Samsung Galaxy S24 Ultra cũ (99.9% - Giá cực rẻ),20950000.0,5000.0,12.0,256.0,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),6.8,AMOLED
+Điện thoại OPPO Find X7 Ultra 5G (Snapdragon 8 Gen 3),20990000.0,5000.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.82,AMOLED
+Điện thoại Xiaomi MIX Flip 5G (Snapdragon 8 Gen 3),21150000.0,4780.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.86,AMOLED
+Điện thoại Nubia Red Magic 10 Pro Plus (Snapdragon 8 Elite - Pin 7050mAh),21500000.0,7050.0,16.0,512.0,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),6.85,AMOLED
+Điện thoại Nubia Red Magic 8S Pro Plus Bumblebee Edition,21550000.0,5000.0,16.0,512.0,Qualcomm Snapdragon 8+ Gen 2 (4 nm),6.8,AMOLED
+Điện thoại NIO Phone 5G (Snapdragon 8 Gen 2 - ép xung),21699000.0,5200.0,12.0,512.0,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),6.81,OLED
+Điện thoại iPhone 16 Pro cũ Chính hãng (99% - Trả góp 0%),21950000.0,3582.0,8.0,128.0,Apple A18 Pro (3 nm),6.3,OLED
+Điện thoại Vivo X90 Pro Plus (Snapdragon 8 Gen 2),22750000.0,4700.0,12.0,256.0,Qualcomm SM8550 Snapdragon 8 Gen 2 (4 nm),6.78,AMOLED
+Điện thoại Nubia Red Magic 9 Pro Plus Bumblebee Transformers Edition,22790000.0,5500.0,16.0,512.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.8,AMOLED
+Điện thoại Vivo X100 Ultra 5G (Camera tiềm vọng 200MP - Kết nối vệ tinh),22950000.0,5500.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại Samsung Galaxy Z Flip 6 5G Chính hãng,22950000.0,4000.0,12.0,256.0,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),6.7,AMOLED
+Điện thoại OPPO Find N3 Flip 5G (Dimensity 9200),23150000.0,4300.0,12.0,256.0,MediaTek Dimensity 9200 (4 nm),6.8,AMOLED
+Điện thoại Honor Magic Vs2 5G (Snapdragon 8+ Gen 1),23450000.0,5000.0,12.0,256.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),7.92,OLED
+Điện thoại Xiaomi 14 Ultra 5G (Snapdragon 8 Gen 3 - Camera khủng),23950000.0,5300.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.73,AMOLED
+Điện thoại Google Pixel 8 Pro 5G (Chip Tensor G3),24390000.0,5050.0,12.0,128.0,Google Tensor G3 (4 nm),6.7,OLED
+Điện thoại Vivo X Fold 3 5G (Snapdragon 8 Gen 2),24550000.0,5500.0,12.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),8.03,AMOLED
+Điện thoại iPhone 14 Pro Chính hãng VN/A,24850000.0,3200.0,6.0,128.0,Apple A16 Bionic (4 nm),6.1,OLED
+Điện thoại Google Pixel 9 Pro 5G (AI Gemini nâng cao),24950000.0,4700.0,16.0,128.0,Google Tensor G4 (4 nm),6.3,OLED
+Điện thoại Sony Xperia 5 V (5 Mark 5) 5G (Snapdragon 8 Gen 2),25950000.0,5000.0,8.0,128.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.1,OLED
+Điện thoại Asus Zenfone 11 Ultra 5G (Snapdragon 8 Gen 3),25950000.0,5500.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.78,AMOLED
+Điện thoại OPPO Find X7 Ultra Satellite Edition (Kết nối Vệ tinh - OPPO AI),26790000.0,5000.0,16.0,1.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.82,AMOLED
+Điện thoại Samsung Galaxy Z Fold5 Chính hãng (ĐT Gập - Snapdragon 8 Gen 2),27250000.0,4400.0,12.0,256.0,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm),7.6,AMOLED
+Điện thoại Google Pixel 9 Pro XL (Chip Tensor G4),27550000.0,5060.0,16.0,128.0,Google Tensor G4 (4 nm),6.8,OLED
+Điện thoại Honor Magic Vs (Điện thoại gập - Snap 8+ Gen 1),28450000.0,5000.0,8.0,256.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),7.9,OLED
+Điện thoại iPhone 16 Pro Chính hãng VN/A,28990000.0,3582.0,8.0,128.0,Apple A18 Pro (3 nm),6.3,OLED
+Điện thoại Honor Magic V2 (Snapdragon 8 Gen 2) Chính hãng,29700000.0,5000.0,16.0,256.0,Snapdragon 8 Gen 2 (4 nm),7.92,OLED
+Điện thoại Vivo X Fold 2 5G (Snapdragon 8 Gen 2),29950000.0,4800.0,12.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),8.03,AMOLED
+Điện thoại OPPO Find N5 (Snapdragon 8 Elite),30490000.0,5700.0,12.0,256.0,Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),7.82,AMOLED
+Điện thoại Xiaomi MIX Fold 3 5G (Snapdragon 8 Gen 2 - Xung nhịp cao),30950000.0,4800.0,12.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm) - Ép xung,8.03,AMOLED
+Điện thoại Xiaomi MIX Fold 4 5G (Snapdragon 8 Gen 3),31250000.0,5100.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),7.98,AMOLED
+Điện thoại Sony Xperia 1 V (1 Mark 5) 5G (Snapdragon 8 Gen 2),31450000.0,5000.0,12.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.5,OLED
+Điện thoại Asus ROG Phone 7 Ultimate,31550000.0,6000.0,16.0,512.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.78,AMOLED
+Điện thoại Oppo Find N3 5G (Snapdragon 8 Gen 2),33650000.0,4805.0,12.0,512.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),7.82,AMOLED
+Điện thoại Vivo X Fold 3 Pro 5G (Màn hình gập siêu cao cấp),34350000.0,700.0,16.0,512.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),8.03,AMOLED
+Điện thoại Samsung Galaxy Z Fold 6 5G Chính hãng (Galaxy AI),35950000.0,4400.0,12.0,256.0,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm),7.6,AMOLED
+Điện thoại OnePlus Open 5G (Điện thoại gập - Snapdragon 8 Gen 2),36890000.0,4805.0,16.0,512.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),7.82,AMOLED
+Điện thoại Sony Xperia 1 VI (1 Mark 6) 5G (Snapdragon 8 Gen 3),38550000.0,5000.0,12.0,256.0,Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm),6.5,OLED
+Điện thoại Google Pixel Fold (Google Tensor G2),39890000.0,4821.0,12.0,256.0,Google Tensor G2 (5 nm),7.6,OLED
+Điện thoại Google Pixel 9 Pro Fold (Google Tensor G4),42250000.0,4650.0,16.0,256.0,Google Tensor G4 (4 nm),8.0,OLED
+Điện thoại Samsung Galaxy Z Fold Special Edition,51250000.0,4400.0,16.0,512.0,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - For Galaxy,8.0,AMOLED
+Điện thoại Samsung Galaxy A03 Core (Chính hãng),1810000.0,5000.0,2.0,32.0,Unisoc SC9863A (28nm),6.67,OLED
+Điện thoại Samsung Galaxy A04 (Chính hãng),2120000.0,5000.0,3.0,32.0,MediaTek Helio P35,6.5,IPS LCD
+Điện thoại Realme C30,2250000.0,5000.0,2.0,32.0,Unisoc Tiger T612 (12 nm),5.88,AMOLED
+Điện thoại Xiaomi Redmi Note 9 Pro 5G Cũ (Camera 108MP),2350000.0,4820.0,6.0,128.0,Qualcomm SM7225 Snapdragon 750G 5G (8 nm),6.4,AMOLED
+Điện thoại Tecno Spark 8C (Chính hãng),2450000.0,5000.0,2.0,64.0,Unisoc Tiger T606 (12 nm),6.3,AMOLED
+"Điện thoại Samsung Galaxy A13 4G (Chính hãng, Camera 50MP)",3050000.0,5000.0,4.0,128.0,Exynos 850 (8nm),6.43,AMOLED
+Điện thoại Xiaomi Redmi Note 8 (2021),3350000.0,4000.0,4.0,64.0,MediaTek Helio G85 (12nm),6.5,AMOLED
+Điện thoại Samsung Galaxy M32 (Chính hãng),3700000.0,5000.0,4.0,64.0,Mediatek MT6769V/CU Helio G80 (12 nm),6.4,AMOLED
+Điện thoại Samsung Galaxy A15 5G (Chính hãng),4250000.0,5000.0,4.0,64.0,Mediatek Dimensity 6100 Plus (6 nm),6.67,AMOLED
+Điện thoại Samsung Galaxy A14 5G (Chính hãng - Dimensity 700),4360000.0,5000.0,4.0,64.0,SM-A146B: Exynos 1330,6.4,AMOLED
+Điện thoại Realme Q5i,4450000.0,5000.0,4.0,128.0,MediaTek MT6833P Dimensity 810 5G (6 nm),6.62,AMOLED
+Điện thoại Samsung Galaxy M54 5G (Chính hãng - Pin 6000mAh),4850000.0,6000.0,8.0,128.0,Exynos 1380 (5 nm),6.2,AMOLED
+Điện thoại Samsung Galaxy M14 5G (Chính hãng),4990000.0,6000.0,4.0,64.0,Exynos 1330 (5nm),6.0,OLED
+Điện thoại Xiaomi Black Shark 4S (Màn 144Hz),5500000.0,4500.0,8.0,128.0,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),6.6,IPS LCD
+Điện thoại Samsung Galaxy A33 5G (Chính hãng - Exynos 1280),5530000.0,5000.0,4.0,128.0,Exynos 1280 5G (5 nm),5.8,OLED
+Điện thoại Samsung Galaxy M34 5G (Exynos 1280),5550000.0,6000.0,6.0,128.0,Exynos 1280 (5 nm),6.67,AMOLED
+Điện thoại Samsung Galaxy A54 5G (Chính hãng),6950000.0,5000.0,6.0,128.0,Exynos 1380 (5 nm),6.7,AMOLED
+Điện thoại Vivo S15e,7050000.0,4700.0,8.0,128.0,Exynos 1080 (5 nm),6.67,AMOLED
+Điện thoại OPPO K10 5G,7150000.0,5000.0,8.0,128.0,MediaTek Dimensity 8000 Max (5 nm),6.3,AMOLED
+Điện thoại Samsung Galaxy A34 5G Chính hãng (Dimensity 1080),7450000.0,5000.0,6.0,128.0,Mediatek MT6877V Dimensity 1080 (6 nm),6.6,IPS LCD
+Điện thoại Realme V25,7450000.0,5000.0,12.0,256.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.7,AMOLED
+Điện thoại Honor 60 SE,7950000.0,4300.0,8.0,128.0,MediaTek MT6877 Dimensity 900 5G (6 nm),6.67,AMOLED
+Điện thoại Xiaomi POCO F4 5G,7950000.0,4500.0,6.0,128.0,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),6.4,AMOLED
+Điện thoại Samsung Galaxy F54 (Chính hãng - Exynos 1380),8450000.0,6000.0,8.0,256.0,Exynos 1380,6.7,AMOLED
+Điện thoại Xiaomi Mi CC9 Meitu Edition,9050000.0,4030.0,8.0,256.0,Snapdragon 710 (10 nm),6.7,AMOLED
+Điện thoại OPPO K10 Pro,8950000.0,5000.0,8.0,128.0,Qualcomm SM8350 Snapdragon 888 5G (5 nm),6.67,OLED
+Điện thoại Realme 9 Pro+,9450000.0,4500.0,6.0,128.0,MediaTek Dimensity 920 5G (6 nm),3.0,AMOLED
+Điện thoại Asus ROG Phone 6D,9950000.0,6000.0,12.0,256.0,MediaTek Dimensity 9000+ (4 nm),6.38,AMOLED
+Điện thoại Nothing Phone (1),9950000.0,4500.0,8.0,128.0,Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm),5.8,OLED
+Điện thoại Xiaomi CIVI (Snap 778G),9950000.0,4500.0,8.0,128.0,Qualcomm Snapdragon 778G 5G (6 nm) Octa-core (4x2.4 GHz Kryo 670 & 4x1.8 GHz Kryo 670),6.43,AMOLED
+Điện thoại Samsung Galaxy A52s 5G (Chính hãng),10200000.0,4500.0,4.0,128.0,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),6.67,AMOLED
+Điện thoại Vivo iQOO 9 SE,10450000.0,4500.0,8.0,128.0,Qualcomm SM8350 Snapdragon 888 5G (5 nm),6.7,AMOLED
+Điện thoại Motorola Edge X30,10950000.0,5000.0,8.0,128.0,Qualcomm SM8450 Snapdragon 8 Gen1 (4 nm),6.67,OLED
+Điện thoại Samsung Galaxy Note 10 Plus 5G Hàn Quốc (Mới 100%),10950000.0,4300.0,12.0,256.0,Exynos 9825 (7 nm),6.57,IPS LCD
+Điện thoại Lenovo Legion Pro (Duel),11950000.0,5000.0,8.0,128.0,Qualcomm SM8250 Snapdragon 865+ (7nm+),6.43,AMOLED
+Điện thoại Asus ROG Phone 6D Ultimate,12450000.0,6000.0,16.0,512.0,MediaTek Dimensity 9000+ (4 nm),8.0,IPS LCD
+Điện thoại OPPO Reno8 Pro+,12950000.0,4500.0,8.0,256.0,MediaTek Dimensity 8100-Max (5 nm),6.9,OLED
+Điện thoại Vivo iQOO 10,13050000.0,4700.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.5,OLED
+Điện thoại Motorola Edge 30 Pro,12950000.0,5000.0,8.0,128.0,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),6.67,AMOLED
+Điện thoại Vivo X80,13150000.0,4500.0,8.0,128.0,MediaTek Dimensity 9000 (4 nm),6.67,AMOLED
+Điện thoại Vivo IQOO 9,13450000.0,4700.0,8.0,128.0,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),6.67,AMOLED
+Điện thoại Samsung Galaxy Z Flip5 Chính hãng (Snapdragon 8 Gen 2),14800000.0,3700.0,8.0,256.0,Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm),6.7,AMOLED
+Điện thoại OPPO Reno7 Pro,14950000.0,4500.0,8.0,256.0,MediaTek Dimensity 1200 Max 5G (6nm),6.4,AMOLED
+Điện thoại Realme GT 2 Pro (Chính hãng),15450000.0,5000.0,8.0,128.0,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),6.67,AMOLED
+Điện thoại Asus Zenfone 9,16450000.0,4300.0,8.0,128.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm),6.67,AMOLED
+Điện thoại OPPO Find X5,16450000.0,4800.0,8.0,128.0,Qualcomm SM8350 Snapdragon 888 5G (5 nm),6.7,AMOLED
+Điện thoại OPPO Reno7 Pro (Chính hãng),17450000.0,4500.0,12.0,256.0,MediaTek Dimensity 1200 Max (6 nm),6.8,AMOLED
+Điện thoại Vivo iQOO 9 Pro,19450000.0,4700.0,8.0,256.0,Qualcomm SM8450 Snapdragon 8 Gen1 (4 nm),6.8,AMOLED
+Điện thoại Vivo X80 Pro,19450000.0,4700.0,8.0,256.0,MediaTek Dimensity 9000 (4 nm),6.74,AMOLED
+Điện thoại Xiaomi 12 Pro (Chính hãng DGW),19950000.0,4600.0,8.0,128.0,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),6.7,AMOLED
+Điện thoại OPPO Find X5 Pro,21950000.0,5000.0,8.0,256.0,MediaTek Dimensity 9000 (4 nm),4.7,IPS LCD
+Điện thoại Honor Magic 4,23450000.0,4800.0,8.0,128.0,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),6.21,AMOLED
+Điện thoại Honor Magic 4 Pro,25950000.0,4600.0,8.0,256.0,Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm),6.67,IPS LCD
+Điện thoại Xiaomi MIX Fold 2,31450000.0,4500.0,12.0,256.0,Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)	,6.74,OLED
+"Điện thoại Xiaomi Redmi Note 12R Cũ 5G (99,9% - màn 6,79 inch 90Hz)",1550000.0,5000.0,4.0,128.0,Qualcomm Snapdragon 4 Gen 2 (4 nm),6.3,IPS LCD
+Điện thoại Vsmart Joy 4,1750000.0,5000.0,3.0,64.0,Snapdragon 665,6.09,IPS LCD
+Điện thoại Xiaomi POCO M5 Cũ (99% - Helio G99),1800000.0,5000.0,4.0,64.0,Mediatek Helio G99,6.5,IPS LCD
+Điện thoại Samsung Galaxy A03s (Chính hãng),2100000.0,5000.0,2.0,32.0,MediaTek MT6765 Helio P35 (12nm),6.2,IPS LCD
+"Điện thoại LG V40 ThinQ cũ (Snapdragon 845, Màn P-OLED 2K)",2250000.0,3300.0,6.0,64.0,Qualcomm SDM845 Snapdragon 845 (10 nm),6.5,IPS LCD
+Điện thoại Realme Q5 Cũ 5G (Snapdragon 695 - 99.9%),2450000.0,5000.0,6.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.26,IPS LCD
+Điện thoại Samsung Galaxy S7 cũ (2 SIM)- FullBox,2550000.0,3000.0,4.0,32.0,Snapdragon 820,6.3,IPS LCD
+"Điện thoại Xiaomi POCO M5 (Helio G99, màn 90Hz)",2490000.0,5000.0,4.0,64.0,Mediatek Helio G99,6.3,IPS LCD
+Điện thoại Vivo S1 Pro,2500000.0,3700.0,6.0,128.0,Qualcomm Snapdragon 675 (11 nm),6.01,AMOLED
+Điện thoại Xiaomi Redmi Note 12 4G Cũ (Chính hãng DGW),2500000.0,5000.0,4.0,64.0,Qualcomm SM6225 Snapdragon 685 (6 nm),6.2,AMOLED
+Điện thoại Xiaomi Redmi 12C Cũ (DGW - 99%),2500000.0,5000.0,3.0,32.0,Mediatek MT6769Z Helio G85 (12nm),6.53,IPS LCD
+Điện thoại Realme Narzo 50i (Chính hãng - Pin 5000mAh),2600000.0,5000.0,2.0,32.0,Unisoc SC9863A,6.5,IPS LCD
+Điện thoại Google Pixel 4a (Snapdragon 730G),2650000.0,3140.0,6.0,128.0,Qualcomm SDM730 Snapdragon 730G (8 nm),6.3,IPS LCD
+Điện thoại Realme V50 (V50S) 5G (Dimensity 6100 Plus),2650000.0,5000.0,6.0,128.0,Mediatek Dimensity 6100+ (6 nm),6.5,IPS LCD
+Điện thoại OPPO A2x 5G (Dimensity 6020),2650000.0,5000.0,6.0,128.0,Mediatek Dimensity 6020 (7 nm),6.3,IPS LCD
+"Điện thoại Xiaomi Redmi 10C (Chính hãng, Snapdragon 680)",2650000.0,5000.0,4.0,64.0,Qualcomm SM6225 Snapdragon 680 4G (6 nm),3.0,IPS LCD
+Điện thoại Samsung Galaxy A20s,2850000.0,4000.0,3.0,32.0,Snapdragon 450 (14nm),6.5,IPS LCD
+Điện thoại Xiaomi Redmi Note 11 Cũ (DGW - Snap 680),2750000.0,5000.0,4.0,64.0,Snapdragon 680 (6 nm),6.53,AMOLED
+Điện thoại Xiaomi Redmi 10 5G Cũ DGW (99.9% - Dimensity 700 5G),2800000.0,5000.0,4.0,64.0,Mediatek MT6833 Dimensity 700 (7 nm),6.39,AMOLED
+Điện thoại OPPO A78 5G Cũ (Dimensity 700 5G),2850000.0,5000.0,4.0,128.0,Mediatek Dimensity 700 (7 nm),6.39,AMOLED
+Điện thoại Samsung Galaxy A13 (Chính hãng),2900000.0,5000.0,4.0,64.0,MediaTek MT6833 Dimensity 700 5G (7 nm),6.67,IPS LCD
+"Điện thoại Sony Xperia 1 Cũ (Snapdragon 855 - Màn 4K) - Đẹp 99,9%",2950000.0,3330.0,6.0,64.0,Qualcomm SM8150 Snapdragon 855 (7 nm),6.4,AMOLED
+Điện thoại Sony Xperia 10 III (10 Mark 3) 5G (Màn OLED 1 tỷ màu),2950000.0,4500.0,6.0,128.0,Qualcomm SM6350 Snapdragon 690 5G (8 nm),6.39,AMOLED
+"Điện thoại Samsung Galaxy A04s (Chính hãng - Exynos 850, camera 50MP)",2950000.0,5000.0,3.0,32.0,Exynos 850 (8nm),6.67,OLED
+Điện thoại Samsung Galaxy A90 5G Cũ (Snapdragon 855),3200000.0,4500.0,6.0,128.0,Qualcomm SM8150 Snapdragon 855 (7 nm),6.57,AMOLED
+Điện thoại Xiaomi Redmi Note 13 Cũ (99% - Màn AMOLED 120Hz 1 tỷ màu),2950000.0,5000.0,6.0,128.0,Mediatek Dimensity 6080 (6 nm),6.44,AMOLED
+Điện thoại Xiaomi POCO C40 (Chính hãng DGW),2950000.0,6000.0,4.0,64.0,JR510 (11nm),6.53,IPS LCD
+Điện thoại Honor 20S,6450000.0,3750.0,6.0,128.0,HiSilicon Kirin 810 (7 nm),6.67,IPS LCD
+Điện thoại LG Velvet 5G cũ (Snapdragon 845/Snapdragon 765G),3250000.0,4300.0,4.0,128.0,1. Bản 4G: SDM845 Snapdragon 845 (10 nm),6.57,IPS LCD
+Điện thoại Xiaomi Redmi 10 5G (Chính hãng),3300000.0,5000.0,4.0,64.0,MediaTek MT6833 Dimensity 700 5G (7 nm),6.67,IPS LCD
+Điện thoại LG V60 ThinQ 5G Cũ (Snapdragon 865 5G),3350000.0,5000.0,8.0,128.0,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),6.57,IPS LCD
+Điện thoại Xiaomi Redmi Note 12 Chính hãng DGW (Giá ~ 3 triệu),3350000.0,5000.0,4.0,64.0,Qualcomm SM6225 Snapdragon 685 (6 nm),6.57,AMOLED
+Điện thoại Samsung Galaxy M12 Chính hãng,3700000.0,5000.0,3.0,32.0,Exynos 850 (8nm),6.67,IPS LCD
+Điện thoại Tecno POVA 5 Chính hãng (POVA 5 X Free Fire),3450000.0,6000.0,8.0,128.0,Mediatek MT8781 Helio G99 (6nm),6.67,IPS LCD
+Điện thoại Vsmart Aris,3450000.0,4000.0,6.0,64.0,Snapdragon 730,6.21,AMOLED
+Điện thoại Xiaomi Redmi Note 12 Pro Speed Edition Cũ (99%),3450000.0,5000.0,6.0,128.0,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),6.55,AMOLED
+Điện thoại Xiaomi Redmi Note 11E Pro Cũ (Snap 695 - 99%),3950000.0,5000.0,6.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.38,AMOLED
+Điện thoại Realme Q5 5G (Snapdragon 695 5G),3450000.0,5000.0,6.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.5,IPS LCD
+Điện thoại Realme Q3s Cũ 5G (Snapdragon 778G - Màn 144Hz),3450000.0,5000.0,6.0,128.0,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),6.6,IPS LCD
+Điện thoại Vivo S5,3500000.0,4100.0,8.0,128.0,Snapdragon 712 (10 nm),6.39,AMOLED
+Điện thoại Xiaomi POCO M4 Pro (Chính hãng DGW),3550000.0,5000.0,6.0,128.0,Mediatek Helio G96 (12 nm),6.4,AMOLED
+Điện thoại iPhone 8 Plus Cũ (Chính hãng) - Fullbox,3650000.0,2691.0,3.0,64.0,"Apple A11 Bionic (10 nm), 6 nhân",6.8,AMOLED
+Điện thoại Xiaomi Black Shark 2 Pro (Gaming Phone),3650000.0,4000.0,8.0,128.0,Qualcomm SM8150 Snapdragon 855+ (7 nm),6.6,IPS LCD
+Điện thoại Samsung Galaxy Note 9 cũ (128GB - 512GB),3650000.0,4000.0,6.0,128.0,Bản 1: Exynos 9810 (10 nm),6.6,IPS LCD
+Điện thoại Realme 10 Pro Plus Cũ (99.9% - Giá siêu rẻ),3650000.0,5000.0,8.0,128.0,MediaTek Dimensity 1080 (6 nm),6.57,IPS LCD
+Điện thoại Xiaomi Redmi Note 11T Pro Plus (Sạc 120W),3750000.0,4400.0,8.0,128.0,MediaTek Dimensity 8100 (5 nm),6.39,AMOLED
+"Điện thoại Xiaomi Redmi Note 11 (Màn AMOLED, 90Hz)",4100000.0,5000.0,4.0,64.0,Snapdragon 680 (6 nm),6.8,AMOLED
+Điện thoại Google Pixel 5a 5G (Snapdragon 765G),3750000.0,4680.0,6.0,128.0,Qualcomm SM7250 Snapdragon 765G 5G (7 nm),6.41,AMOLED
+"Điện thoại Google Pixel 5 5G Cũ 99,9% (Snapdragon 765G)",3750000.0,4080.0,8.0,128.0,Qualcomm SM7250 Snapdragon 765G 5G (7 nm),6.8,AMOLED
+Điện thoại Xiaomi Redmi Note 12 Pro (Dimensity 1080),3750000.0,5000.0,6.0,128.0,MediaTek Dimensity 1080 (6nm),6.47,AMOLED
+Điện thoại Xiaomi Redmi Note 10 (2021 - Chính hãng DGW),3850000.0,5000.0,4.0,64.0,"Qualcomm Snapdragon 678 (11 nm), 8 nhân",6.67,OLED
+Điện thoại Xiaomi Redmi Note 8 Pro (Helio G90T),3950000.0,4500.0,4.0,64.0,Mediatek Helio G90T (12nm),6.55,OLED
+Điện thoại Xiaomi Redmi Note 11 SE (Dimensity 700),3950000.0,5000.0,4.0,128.0,MediaTek MT6833 Dimensity 700 (7 nm),6.39,AMOLED
+"Điện thoại Realme GT Neo 2 cũ 5G (Snapdragon 870, 99%)",3950000.0,5000.0,8.0,128.0,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),6.39,AMOLED
+Điện thoại Xiaomi Redmi Note 12T Pro 5G (Dimensity 8200 Ultra),3950000.0,5080.0,8.0,128.0,Mediatek Dimensity 8200 Ultra (4 nm),6.67,AMOLED
+Điện thoại Realme 10 5G (Dimensity 700 - Màn 90Hz - RAM 8GB),3950000.0,5000.0,8.0,128.0,MediaTek MT6833 Dimensity 700 (7 nm),6.44,AMOLED
+Điện thoại Realme 10 Pro 5G (China - Camera 108MP),3950000.0,5000.0,8.0,256.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),6.78,AMOLED
+Điện thoại Sony Xperia 5 II (5 Mark 2) 5G Cũ (Snapdragon 865 - Màn OLED 120Hz),3950000.0,4000.0,8.0,128.0,Qualcomm SM8250 Snapdragon 865 5G (7 nm+),6.67,AMOLED
+Điện thoại Xiaomi Redmi K60E Cũ (99% - Pin 5500mAh),3950000.0,5500.0,8.0,128.0,MediaTek Dimensity 8200 (4 nm),6.8,AMOLED
+Điện thoại Xiaomi Poco M3 Pro 5G,4150000.0,5000.0,4.0,64.0,MediaTek MT6833 Dimensity 700 5G (7 nm),6.7,AMOLED
+"Điện thoại Xiaomi Mi 8 SE ( RAM 4GB, 6GB)",4250000.0,3120.0,4.0,64.0,Qualcomm Snapdragon 710 (10 nm),6.67,OLED
+Điện thoại Samsung Galaxy Note 9 (2 SIM) Cũ,4250000.0,4000.0,6.0,128.0,Exynos 9810 (8nm),6.67,AMOLED
+"Điện thoại Samsung Galaxy Note 10 Cũ (Mỹ, Hàn Quốc - 99%)",4550000.0,3500.0,8.0,256.0,Bản 1: Exynos 9825 (7 nm),6.67,OLED
+Điện thoại Realme GT Neo 2T cũ,4250000.0,4500.0,8.0,128.0,MediaTek MT6893 Dimensity 1200 5G (6 nm),5.84,OLED
+Điện thoại Samsung Galaxy S20 FE cũ 5G (Snapdragon 865 - 99.9%),4250000.0,4500.0,6.0,128.0,Exynos 990 (7 nm+): 8 nhân (2x2.73 GHz & 2x2.50 GHz & 4x2.0 GHz),6.8,AMOLED
+Điện thoại Samsung Galaxy M22 Chính hãng,4300000.0,5000.0,4.0,64.0,Mediatek Helio G80 (12 nm),6.2,AMOLED
+Điện thoại Samsung Galaxy A23 (Chính hãng),4300000.0,5000.0,4.0,64.0,Qualcomm SM6225 Snapdragon 680 4G (6 nm),6.2,AMOLED
+Điện thoại Xiaomi Redmi Note 11E Pro (Camera 108MP),4350000.0,5000.0,6.0,128.0,Qualcomm SM6375 Snapdragon 695 5G (6 nm),5.45,IPS LCD
+Điện thoại Samsung Galaxy A22 chính hãng,4450000.0,5000.0,4.0,64.0,Mediatek MT6769V/CU Helio G80,26.0,IPS LCD
+Điện thoại Realme Q5 Pro cũ,4450000.0,5000.0,6.0,128.0,Qualcomm SM8250-AC Snapdragon 870 5G (7 nm),26.0,IPS LCD
+Điện thoại Samsung Galaxy S20 Plus Cũ 5G (Snapdragon 865 - 99.9%),4650000.0,4500.0,8.0,128.0,"Exynos 990 (7 nm+), 8 nhân (2x2.73 GHz & 2x2.50 GHz & 4x2.0 GHz)",6.59,IPS LCD
+Điện thoại Xiaomi Redmi Note 12 Pro Plus Cũ (Dimensity 1080),4800000.0,5000.0,8.0,256.0,Mediatek MT6877V Dimensity 1080 (6 nm),6.4,IPS LCD
+Điện thoại Samsung Galaxy Note 8 - 2 SIM cũ,4950000.0,3300.0,6.0,64.0,Exynos 8895 (10nm),6.5,AMOLED
+Điện thoại Vivo iQOO Neo,5050000.0,4500.0,6.0,64.0,Snapdragon 845 (10 nm),6.55,AMOLED
+Điện thoại iPhone X cũ (Chính hãng),4950000.0,2716.0,3.0,64.0,Apple A11 Bionic (10 nm),6.39,AMOLED
+Điện thoại Realme GT Neo 2T (Dimensity 1200),4950000.0,4500.0,8.0,128.0,MediaTek MT6893 Dimensity 1200 5G (6 nm),6.41,AMOLED
+Điện thoại Xiaomi Redmi Note 11 Pro (Siêu rẻ),4950000.0,5160.0,6.0,128.0,MediaTek Dimensity 920 5G (6 nm),6.39,OLED
+"Điện thoại Samsung Galaxy S10 5G cũ (99,9%) (Màn 6.7'' 2K+)",4950000.0,4500.0,8.0,256.0,"Exynos 9820 (8 nm), 8 nhân  (2x2.73 GHz & 2x2.31 GHz & 4x1.95 GHz)",6.67,OLED
+"Điện thoại Xiaomi Redmi K50 (Dimensity 8100, Pin 5500mAh)",4950000.0,5500.0,8.0,128.0,MediaTek Dimensity 8100 (5 nm),7.2,OLED
